@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @actionanand
 - 👀 I’m interested in web development
-- 🌱 I’m currently exploring svelt
+- 🌱 I’m currently exploring Svelte
 - 💞️ I’m looking to collaborate on svelte, angular, react and vue
 - 📫 How to reach me ... 
 - https://linkedin.com/in/anand-ns/
