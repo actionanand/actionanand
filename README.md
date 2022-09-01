@@ -49,4 +49,4 @@ ___
 
  ### Blogs posts
  
-<a href="https://app.daily.dev/actionanand"><img src="https://api.daily.dev/devcards/930302f65f2a4d7db7a1aebf7f1acbe7.png?r=0nb" width="400" alt="Anand Raja's Dev Card"/></a>
+<a href="https://app.daily.dev/actionanand"><img src="https://github.com/actionanand/actionanand/blob/master/devcard.svg" width="400" alt="Anand Raja's Dev Card"/></a>
