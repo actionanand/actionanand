@@ -22,9 +22,6 @@
 
 ___
 
-<!-- ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END --> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,4 +47,6 @@ ___
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=actionanand&" alt="actionanand" /></p>
 
+ ### Blogs posts
+ 
 <a href="https://app.daily.dev/actionanand"><img src="https://api.daily.dev/devcards/930302f65f2a4d7db7a1aebf7f1acbe7.png?r=0nb" width="400" alt="Anand Raja's Dev Card"/></a>
