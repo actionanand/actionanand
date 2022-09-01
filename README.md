@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Angular, React, Vue and JS**
 
-<!-- ### Blogs posts -->
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
