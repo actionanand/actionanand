@@ -8,8 +8,14 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - "profile-summary-card-output/**"
   schedule:
     - cron: "0 6 * * *"
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -17,9 +23,12 @@ jobs:
     name: Generate Summary Cards
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          THEME: tokyonight
         with:
           USERNAME: actionanand
-          THEME: tokyonight
+          AUTO_PUSH: true
