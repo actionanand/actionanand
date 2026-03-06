@@ -1,0 +1,25 @@
+name: GitHub Profile Summary Cards
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 6 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate Summary Cards
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: actionanand
+          THEME: tokyonight
