@@ -14,6 +14,12 @@
 
 <!-- Profile Badges -->
 <div align="center">
+  <a href="https://anand-resume.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-anand--resume.pages.dev-FF5722?style=for-the-badge" alt="Portfolio"/>
+  </a>
+
+  <br/><br/>
+
   <img src="https://komarev.com/ghpvc/?username=actionanand&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
   &nbsp;
   <a href="https://github.com/actionanand?tab=followers">
@@ -255,7 +261,7 @@ fun_fact: >
 
 <!-- Trophies -->
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=actionanand&theme=algolia&no-frame=true&no-bg=true&column=-1&margin-w=10" alt="GitHub Trophies" width="95%"/>
+  <img src="https://github-trophies.vercel.app/?username=actionanand&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" width="95%"/>
 </div>
 
 <br/>
@@ -283,6 +289,9 @@ fun_fact: >
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> &nbsp;Connect with Me
 
 <div align="center">
+  <a href="https://anand-resume.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+  </a>&nbsp;
   <a href="https://linkedin.com/in/anand-ns" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;
