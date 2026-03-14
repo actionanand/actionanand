@@ -83,6 +83,11 @@ fun_fact: >
   <a href="https://reactjs.org"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
   <a href="https://vuejs.org"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/></a>
   <a href="https://svelte.dev"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/></a>
+  <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/></a>
+  <a href="https://remix.run"><img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" alt="Remix"/></a>
+  <a href="https://astro.build"><img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/></a>
+  <a href="https://scully.io"><img src="https://img.shields.io/badge/Scully-FF6B6B?style=for-the-badge&logo=angular&logoColor=white" alt="Scully"/></a>
+  <a href="https://analogjs.org"><img src="https://img.shields.io/badge/AnalogJS-0F172A?style=for-the-badge&logo=angular&logoColor=white" alt="Analog.js"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
   <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
   <a href="https://rxjs.dev"><img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS"/></a>
@@ -99,6 +104,14 @@ fun_fact: >
   <a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
   <a href="https://material.angular.io"><img src="https://img.shields.io/badge/Angular_Material-757575?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Material"/></a>
   <a href="https://d3js.org"><img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3.js"/></a>
+  <a href="https://handlebarsjs.com"><img src="https://img.shields.io/badge/Handlebars.js-000000?style=for-the-badge&logo=handlebarsdotjs&logoColor=white" alt="Handlebars"/></a>
+  <a href="https://pugjs.org"><img src="https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white" alt="Pug"/></a>
+  <a href="https://ejs.co"><img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS"/></a>
+  <a href="https://webassembly.org"><img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly"/></a>
+  <img src="https://img.shields.io/badge/MEAN_Stack-00BCD4?style=for-the-badge&logoColor=white" alt="MEAN Stack"/>
+  <img src="https://img.shields.io/badge/MERN_Stack-61DAFB?style=for-the-badge&logoColor=black" alt="MERN Stack"/>
+  <img src="https://img.shields.io/badge/JAMstack-F0047F?style=for-the-badge&logo=jamstack&logoColor=white" alt="JAMstack"/>
+  <a href="https://tanstack.com"><img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack"/></a>
 </p>
 </details>
 
@@ -114,7 +127,12 @@ fun_fact: >
   <a href="https://deno.land"><img src="https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white" alt="Deno"/></a>
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
   <a href="https://golang.org"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
-  <a href="https://www.nginx.com"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/></a>
+  <a href="https://www.cprogramming.com"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/></a>
+  <a href="https://www.w3schools.com/cpp"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
+  <a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/></a>
+  <a href="https://www.ruby-lang.org"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/></a>
+  <a href="https://rubyonrails.org"><img src="https://img.shields.io/badge/Ruby_on_Rails-D30001?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails"/></a>
+  <a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a>
 </p>
 </details>
 
@@ -158,6 +176,7 @@ fun_fact: >
   <a href="https://airflow.apache.org"><img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/></a>
   <a href="https://www.rundeck.com"><img src="https://img.shields.io/badge/Rundeck-F73F39?style=for-the-badge&logo=rundeck&logoColor=white" alt="Rundeck"/></a>
   <a href="https://backstage.io"><img src="https://img.shields.io/badge/Backstage-9BF0E1?style=for-the-badge&logo=backstage&logoColor=black" alt="Backstage"/></a>
+  <a href="https://www.nginx.com"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/></a>
   <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
   <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/></a>
   <a href="https://nx.dev"><img src="https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white" alt="Nx"/></a>
@@ -194,6 +213,23 @@ fun_fact: >
   <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
   <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
   <a href="https://www.invisionapp.com"><img src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=invision&logoColor=white" alt="InVision"/></a>
+  <a href="https://biomejs.dev"><img src="https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=biome&logoColor=white" alt="Biome"/></a>
+  <a href="https://eslint.org"><img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint"/></a>
+  <a href="https://learn.microsoft.com/windows/wsl"><img src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white" alt="WSL"/></a>
+  <a href="https://github.com/nvm-sh/nvm"><img src="https://img.shields.io/badge/NVM-F4DD4B?style=for-the-badge&logo=node.js&logoColor=black" alt="NVM"/></a>
+  <a href="https://docs.conda.io/en/latest/miniconda.html"><img src="https://img.shields.io/badge/Miniconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Miniconda"/></a>
+  <a href="https://mermaid.js.org">
+    <img src="https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white" alt="Mermaid"/>
+  <a href="https://katex.org">
+    <img src="https://img.shields.io/badge/KaTeX-008080?style=for-the-badge&logo=katex&logoColor=white" alt="KaTeX"/>
+  </a>
+  <a href="https://prismjs.com">
+    <img src="https://img.shields.io/badge/PrismJS-2D2D2D?style=for-the-badge&logo=prisma&logoColor=white" alt="PrismJS"/>
+  </a>
+  <a href="https://shiki.style">
+    <img src="https://img.shields.io/badge/Shiki-4FC08D?style=for-the-badge&logoColor=white" alt="Shiki"/>
+</a>
+</a>
 </p>
 </details>
 
@@ -210,10 +246,35 @@ fun_fact: >
   <img src="https://img.shields.io/badge/RAG-00B4D8?style=for-the-badge&logoColor=white" alt="RAG"/>
   <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge&logoColor=white" alt="AI Agents"/>
   <img src="https://img.shields.io/badge/LLMs-10A37F?style=for-the-badge&logoColor=white" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/AI_Assisted_Development-6A5ACD?style=for-the-badge&logoColor=white" alt="AI Assisted Development"/>
   <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logoColor=white" alt="Prompt Engineering"/>
   <img src="https://img.shields.io/badge/Vector_DB-4A154B?style=for-the-badge&logoColor=white" alt="Vector DB"/>
   <img src="https://img.shields.io/badge/Embeddings-0077B5?style=for-the-badge&logoColor=white" alt="Embeddings"/>
   <a href="https://vercel.com/ai"><img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK"/></a>
+  <a href="https://openai.com/blog/openai-codex">
+    <img src="https://img.shields.io/badge/OpenAI_Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex"/>
+  </a>
+  <a href="https://shittycodingagent.ai/">
+    <img src="https://img.shields.io/badge/PI_Coding_Agent-FF4F00?style=for-the-badge&logoColor=white" alt="PI Coding Agent"/>
+  </a>
+  <a href="https://github.com/features/copilot">
+    <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot"/>
+  </a>
+  <a href="https://claude.ai">
+    <img src="https://img.shields.io/badge/Claude_AI-6B3DF5?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI"/>
+  </a>
+  <a href="https://chat.openai.com">
+    <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  </a>
+  <a href="https://qwen.ai">
+    <img src="https://img.shields.io/badge/Qwen_AI-FF6A00?style=for-the-badge&logoColor=white" alt="Qwen AI"/>
+  </a>
+  <a href="https://deepseek.com">
+    <img src="https://img.shields.io/badge/DeepSeek-1E90FF?style=for-the-badge&logoColor=white" alt="DeepSeek"/>
+  </a>
+  <a href="https://gemini.google.com">
+    <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI"/>
+  </a>
 </p>
 </details>
 
