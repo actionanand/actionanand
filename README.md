@@ -44,8 +44,8 @@
 
 ```yaml
 name: Anand Raja
-location: India
-role: Full Stack Web Developer
+location: Bangalore, India
+role: Full-Stack Web Developer (AI-Augmented Development)
 
 focus_areas:
   primary: Angular (Frontend Specialist)
@@ -90,6 +90,15 @@ fun_fact: >
   <a href="https://analogjs.org"><img src="https://img.shields.io/badge/AnalogJS-0F172A?style=for-the-badge&logo=angular&logoColor=white" alt="Analog.js"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
   <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+  <a href="https://coffeescript.org/">
+    <img src="https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&logo=coffeescript&logoColor=white" alt="CoffeeScript"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="ES6"/>
+  </a>
+  <a href="https://tc39.es/">
+    <img src="https://img.shields.io/badge/ESNext-1F6FEB?style=for-the-badge&logo=javascript&logoColor=white" alt="ESNext"/>
+  </a>
   <a href="https://rxjs.dev"><img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS"/></a>
   <a href="https://ngrx.io"><img src="https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=reactivex&logoColor=white" alt="NgRx"/></a>
   <a href="https://redux.js.org"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/></a>
