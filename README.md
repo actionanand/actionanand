@@ -229,6 +229,7 @@ fun_fact: >
   <a href="https://docs.conda.io/en/latest/miniconda.html"><img src="https://img.shields.io/badge/Miniconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Miniconda"/></a>
   <a href="https://mermaid.js.org">
     <img src="https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white" alt="Mermaid"/>
+  </a>
   <a href="https://katex.org">
     <img src="https://img.shields.io/badge/KaTeX-008080?style=for-the-badge&logo=katex&logoColor=white" alt="KaTeX"/>
   </a>
@@ -237,8 +238,7 @@ fun_fact: >
   </a>
   <a href="https://shiki.style">
     <img src="https://img.shields.io/badge/Shiki-4FC08D?style=for-the-badge&logoColor=white" alt="Shiki"/>
-</a>
-</a>
+  </a>
 </p>
 </details>
 
