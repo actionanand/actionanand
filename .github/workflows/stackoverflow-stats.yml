@@ -24,23 +24,26 @@ jobs:
 
       - name: Fetch stats from Stack Exchange API
         run: |
-          # Default filter already includes question_count, answer_count & reputation
-          # --compressed tells curl to decompress the gzip response automatically
-          RESPONSE=$(curl -s --compressed "https://api.stackexchange.com/2.3/users/10907720?site=stackoverflow")
+          # Reputation from /users endpoint
+          USER_RESP=$(curl -s --compressed "https://api.stackexchange.com/2.3/users/10907720?site=stackoverflow")
+          echo "User response: $USER_RESP"
+          REPUTATION=$(echo "$USER_RESP" | jq '.items[0].reputation')
 
-          echo "Raw API response:"
-          echo "$RESPONSE"
+          # Total questions: use pagesize=1 and read .total from /users/{id}/questions
+          Q_RESP=$(curl -s --compressed "https://api.stackexchange.com/2.3/users/10907720/questions?site=stackoverflow&pagesize=1&filter=total")
+          echo "Questions response: $Q_RESP"
+          QUESTION_COUNT=$(echo "$Q_RESP" | jq '.total')
 
-          # Extract fields with jq (pre-installed on ubuntu-latest)
-          REPUTATION=$(echo "$RESPONSE"     | jq '.items[0].reputation')
-          QUESTION_COUNT=$(echo "$RESPONSE" | jq '.items[0].question_count')
-          ANSWER_COUNT=$(echo "$RESPONSE"   | jq '.items[0].answer_count')
+          # Total answers: same trick with /users/{id}/answers
+          A_RESP=$(curl -s --compressed "https://api.stackexchange.com/2.3/users/10907720/answers?site=stackoverflow&pagesize=1&filter=total")
+          echo "Answers response: $A_RESP"
+          ANSWER_COUNT=$(echo "$A_RESP" | jq '.total')
 
           echo "Reputation   : $REPUTATION"
           echo "Questions    : $QUESTION_COUNT"
           echo "Answers      : $ANSWER_COUNT"
 
-          # Fail fast if any value is null (rate-limited or API changed)
+          # Fail fast if any value is null
           if [ "$REPUTATION" = "null" ] || [ "$QUESTION_COUNT" = "null" ] || [ "$ANSWER_COUNT" = "null" ]; then
             echo "❌ One or more fields missing from API response. Aborting."
             exit 1
