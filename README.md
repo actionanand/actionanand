@@ -5,30 +5,22 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&repeat=true&random=false&width=650&height=50&lines=Angular+%F0%9F%85%B0%EF%B8%8F+is+my+Superpower;Building+Scalable+Web+Applications;JavaScript+%7C+TypeScript+%7C+Node.js+Expert;Clean+Code+%E2%80%A2+Best+Practices+%E2%80%A2+Performance" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&repeat=true&random=false&width=650&height=50&lines=Angular+%F0%9F%85%B0%EF%B8%8F+is+my+Superpower;Building+Scalable+Web+Applications;JavaScript+%7C+TypeScript+%7C+Node.js+Expert;Clean+Code+%E2%80%A2+Best+Practices+%E2%80%A2+Performance" alt="Typing SVG" /></a>
 </div>
 
 <br/>
 
 <!-- Profile Badges -->
 <div align="center">
-  <a href="https://anand-resume.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-anand--resume.pages.dev-FF5722?style=for-the-badge" alt="Portfolio"/>
-  </a>
+  <a href="https://anand-resume.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/🌐%20Portfolio-anand--resume.pages.dev-FF5722?style=for-the-badge" alt="Portfolio"/></a>
 
   <br/><br/>
 
   <img src="https://komarev.com/ghpvc/?username=actionanand&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
   &nbsp;
-  <a href="https://github.com/actionanand?tab=followers">
-    <img src="https://img.shields.io/github/followers/actionanand?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github" alt="GitHub followers"/>
-  </a>
+  <a href="https://github.com/actionanand?tab=followers"><img src="https://img.shields.io/github/followers/actionanand?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github" alt="GitHub followers"/></a>
   &nbsp;
-  <a href="https://twitter.com/actionanand" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/actionanand?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1A8CD8" alt="Twitter"/>
-  </a>
+  <a href="https://twitter.com/actionanand" target="_blank"><img src="https://img.shields.io/twitter/follow/actionanand?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1A8CD8" alt="Twitter"/></a>
 </div>
 
 <br/>
@@ -90,15 +82,9 @@ fun_fact: >
   <a href="https://analogjs.org"><img src="https://img.shields.io/badge/AnalogJS-0F172A?style=for-the-badge&logo=angular&logoColor=white" alt="Analog.js"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
   <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
-  <a href="https://coffeescript.org/">
-    <img src="https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&logo=coffeescript&logoColor=white" alt="CoffeeScript"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="ES6"/>
-  </a>
-  <a href="https://tc39.es/">
-    <img src="https://img.shields.io/badge/ESNext-1F6FEB?style=for-the-badge&logo=javascript&logoColor=white" alt="ESNext"/>
-  </a>
+  <a href="https://coffeescript.org/"><img src="https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&logo=coffeescript&logoColor=white" alt="CoffeeScript"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="ES6"/></a>
+  <a href="https://tc39.es/"><img src="https://img.shields.io/badge/ESNext-1F6FEB?style=for-the-badge&logo=javascript&logoColor=white" alt="ESNext"/></a>
   <a href="https://rxjs.dev"><img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS"/></a>
   <a href="https://ngrx.io"><img src="https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=reactivex&logoColor=white" alt="NgRx"/></a>
   <a href="https://redux.js.org"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/></a>
@@ -227,18 +213,10 @@ fun_fact: >
   <a href="https://learn.microsoft.com/windows/wsl"><img src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white" alt="WSL"/></a>
   <a href="https://github.com/nvm-sh/nvm"><img src="https://img.shields.io/badge/NVM-F4DD4B?style=for-the-badge&logo=node.js&logoColor=black" alt="NVM"/></a>
   <a href="https://docs.conda.io/en/latest/miniconda.html"><img src="https://img.shields.io/badge/Miniconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Miniconda"/></a>
-  <a href="https://mermaid.js.org">
-    <img src="https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white" alt="Mermaid"/>
-  </a>
-  <a href="https://katex.org">
-    <img src="https://img.shields.io/badge/KaTeX-008080?style=for-the-badge&logo=katex&logoColor=white" alt="KaTeX"/>
-  </a>
-  <a href="https://prismjs.com">
-    <img src="https://img.shields.io/badge/PrismJS-2D2D2D?style=for-the-badge&logo=prisma&logoColor=white" alt="PrismJS"/>
-  </a>
-  <a href="https://shiki.style">
-    <img src="https://img.shields.io/badge/Shiki-4FC08D?style=for-the-badge&logoColor=white" alt="Shiki"/>
-  </a>
+  <a href="https://mermaid.js.org"><img src="https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white" alt="Mermaid"/></a>
+  <a href="https://katex.org"><img src="https://img.shields.io/badge/KaTeX-008080?style=for-the-badge&logo=katex&logoColor=white" alt="KaTeX"/></a>
+  <a href="https://prismjs.com"><img src="https://img.shields.io/badge/PrismJS-2D2D2D?style=for-the-badge&logo=prisma&logoColor=white" alt="PrismJS"/></a>
+  <a href="https://shiki.style"><img src="https://img.shields.io/badge/Shiki-4FC08D?style=for-the-badge&logoColor=white" alt="Shiki"/></a>
 </p>
 </details>
 
@@ -260,30 +238,14 @@ fun_fact: >
   <img src="https://img.shields.io/badge/Vector_DB-4A154B?style=for-the-badge&logoColor=white" alt="Vector DB"/>
   <img src="https://img.shields.io/badge/Embeddings-0077B5?style=for-the-badge&logoColor=white" alt="Embeddings"/>
   <a href="https://vercel.com/ai"><img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK"/></a>
-  <a href="https://openai.com/blog/openai-codex">
-    <img src="https://img.shields.io/badge/OpenAI_Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex"/>
-  </a>
-  <a href="https://shittycodingagent.ai/">
-    <img src="https://img.shields.io/badge/PI_Coding_Agent-FF4F00?style=for-the-badge&logoColor=white" alt="PI Coding Agent"/>
-  </a>
-  <a href="https://github.com/features/copilot">
-    <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot"/>
-  </a>
-  <a href="https://claude.ai">
-    <img src="https://img.shields.io/badge/Claude_AI-6B3DF5?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI"/>
-  </a>
-  <a href="https://chat.openai.com">
-    <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-  </a>
-  <a href="https://qwen.ai">
-    <img src="https://img.shields.io/badge/Qwen_AI-FF6A00?style=for-the-badge&logoColor=white" alt="Qwen AI"/>
-  </a>
-  <a href="https://deepseek.com">
-    <img src="https://img.shields.io/badge/DeepSeek-1E90FF?style=for-the-badge&logoColor=white" alt="DeepSeek"/>
-  </a>
-  <a href="https://gemini.google.com">
-    <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI"/>
-  </a>
+  <a href="https://openai.com/blog/openai-codex"><img src="https://img.shields.io/badge/OpenAI_Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex"/></a>
+  <a href="https://shittycodingagent.ai/"><img src="https://img.shields.io/badge/PI_Coding_Agent-FF4F00?style=for-the-badge&logoColor=white" alt="PI Coding Agent"/></a>
+  <a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot"/></a>
+  <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude_AI-6B3DF5?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI"/></a>
+  <a href="https://chat.openai.com"><img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/></a>
+  <a href="https://qwen.ai"><img src="https://img.shields.io/badge/Qwen_AI-FF6A00?style=for-the-badge&logoColor=white" alt="Qwen AI"/></a>
+  <a href="https://deepseek.com"><img src="https://img.shields.io/badge/DeepSeek-1E90FF?style=for-the-badge&logoColor=white" alt="DeepSeek"/></a>
+  <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI"/></a>
 </p>
 </details>
 
@@ -299,24 +261,16 @@ fun_fact: >
 <div align="center">
 
   <!-- Stack Overflow Flair (official, auto-updates with reputation & badges) -->
-  <a href="https://stackoverflow.com/users/10907720/anand-raja" target="_blank">
-    <img src="https://stackoverflow.com/users/flair/10907720.png?theme=dark" width="208" height="58" alt="Stack Overflow profile for Anand Raja" title="Stack Overflow profile for Anand Raja"/>
-  </a>
+  <a href="https://stackoverflow.com/users/10907720/anand-raja" target="_blank"><img src="https://stackoverflow.com/users/flair/10907720.png?theme=dark" width="208" height="58" alt="Stack Overflow profile for Anand Raja" title="Stack Overflow profile for Anand Raja"/></a>
 
   <br/><br/>
 
   <!-- SO Stats badges — auto-updated daily by GitHub Action: stackoverflow-stats.yml -->
   <!-- Reputation: dynamic via shields.io stackexchange API -->
-  <a href="https://stackoverflow.com/users/10907720/anand-raja" target="_blank">
-    <img src="https://img.shields.io/stackexchange/stackoverflow/r/10907720?style=for-the-badge&logo=stackoverflow&logoColor=white&label=Reputation&color=F58025" alt="Stack Overflow Reputation"/>
-  </a>&nbsp;
+  <a href="https://stackoverflow.com/users/10907720/anand-raja" target="_blank"><img src="https://img.shields.io/stackexchange/stackoverflow/r/10907720?style=for-the-badge&logo=stackoverflow&logoColor=white&label=Reputation&color=F58025" alt="Stack Overflow Reputation"/></a>&nbsp;
   <!-- Questions & Answers: dynamic via shields.io JSON badge reading from stackoverflow-stats.json -->
-  <a href="https://stackoverflow.com/users/10907720/anand-raja?tab=questions" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Factionanand%2Factionanand%2Fmain%2Fstackoverflow-stats.json&query=%24.question_count&label=Questions&style=for-the-badge&logo=stackoverflow&logoColor=white&color=1E88E5" alt="Stack Overflow Questions"/>
-  </a>&nbsp;
-  <a href="https://stackoverflow.com/users/10907720/anand-raja?tab=answers" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Factionanand%2Factionanand%2Fmain%2Fstackoverflow-stats.json&query=%24.answer_count&label=Answers&style=for-the-badge&logo=stackoverflow&logoColor=white&color=43A047" alt="Stack Overflow Answers"/>
-  </a>
+  <a href="https://stackoverflow.com/users/10907720/anand-raja?tab=questions" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Factionanand%2Factionanand%2Fmain%2Fstackoverflow-stats.json&query=%24.question_count&label=Questions&style=for-the-badge&logo=stackoverflow&logoColor=white&color=1E88E5" alt="Stack Overflow Questions"/></a>&nbsp;
+  <a href="https://stackoverflow.com/users/10907720/anand-raja?tab=answers" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Factionanand%2Factionanand%2Fmain%2Fstackoverflow-stats.json&query=%24.answer_count&label=Answers&style=for-the-badge&logo=stackoverflow&logoColor=white&color=43A047" alt="Stack Overflow Answers"/></a>
 
   <br/><br/>
 
@@ -390,9 +344,7 @@ fun_fact: >
 ## 📝 Latest Blog Posts & Dev Card
 
 <div align="center">
-  <a href="https://app.daily.dev/actionanand">
-    <img src="https://raw.githubusercontent.com/actionanand/actionanand/main/devcard.svg" width="356" alt="Anand Raja's Dev Card"/>
-  </a>
+  <a href="https://app.daily.dev/actionanand"><img src="https://raw.githubusercontent.com/actionanand/actionanand/main/devcard.svg" width="356" alt="Anand Raja's Dev Card"/></a>
 </div>
 
 <br/>
@@ -405,36 +357,16 @@ fun_fact: >
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> &nbsp;Connect with Me
 
 <div align="center">
-  <a href="https://anand-resume.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
-  </a>&nbsp;
-  <a href="https://linkedin.com/in/anand-ns" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="https://twitter.com/actionanand" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>&nbsp;
-  <a href="https://dev.to/actionanand" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-  </a>&nbsp;
-  <a href="https://medium.com/@actionanand" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>&nbsp;
-  <a href="https://hashnode.com/@actionanand" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
-  </a>&nbsp;
-  <a href="https://stackoverflow.com/users/10907720" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
-  </a>&nbsp;
-  <a href="https://www.youtube.com/c/anandraja13" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>&nbsp;
-  <a href="https://instagram.com/actionanand" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>&nbsp;
-  <a href="https://fb.com/actionanand" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
+  <a href="https://anand-resume.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/></a>&nbsp;
+  <a href="https://linkedin.com/in/anand-ns" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://twitter.com/actionanand" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>&nbsp;
+  <a href="https://dev.to/actionanand" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>&nbsp;
+  <a href="https://medium.com/@actionanand" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>&nbsp;
+  <a href="https://hashnode.com/@actionanand" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a>&nbsp;
+  <a href="https://stackoverflow.com/users/10907720" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>&nbsp;
+  <a href="https://www.youtube.com/c/anandraja13" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>&nbsp;
+  <a href="https://instagram.com/actionanand" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
+  <a href="https://fb.com/actionanand" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </div>
 
 <br/>
