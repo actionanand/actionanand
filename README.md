@@ -238,10 +238,11 @@ fun_fact: >
   <img src="https://img.shields.io/badge/Vector_DB-4A154B?style=for-the-badge&logoColor=white" alt="Vector DB"/>
   <img src="https://img.shields.io/badge/Embeddings-0077B5?style=for-the-badge&logoColor=white" alt="Embeddings"/>
   <a href="https://vercel.com/ai"><img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK"/></a>
+  <a href="https://claude.ai/code"><img src="https://img.shields.io/badge/Claude_Code-6B3DF5?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/></a>
+  <a href="https://opencode.ai"><img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=terminal&logoColor=white" alt="OpenCode"/></a>
   <a href="https://openai.com/blog/openai-codex"><img src="https://img.shields.io/badge/OpenAI_Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex"/></a>
   <a href="https://shittycodingagent.ai/"><img src="https://img.shields.io/badge/PI_Coding_Agent-FF4F00?style=for-the-badge&logoColor=white" alt="PI Coding Agent"/></a>
   <a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot"/></a>
-  <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude_AI-6B3DF5?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI"/></a>
   <a href="https://chat.openai.com"><img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/></a>
   <a href="https://qwen.ai"><img src="https://img.shields.io/badge/Qwen_AI-FF6A00?style=for-the-badge&logoColor=white" alt="Qwen AI"/></a>
   <a href="https://deepseek.com"><img src="https://img.shields.io/badge/DeepSeek-1E90FF?style=for-the-badge&logoColor=white" alt="DeepSeek"/></a>
