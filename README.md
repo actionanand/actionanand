@@ -263,7 +263,7 @@ fun_fact: >
   <!-- Stack Overflow Flair (official, auto-updates with reputation & badges) -->
   <a href="https://stackoverflow.com/users/10907720/anand-raja" target="_blank"><img src="https://stackoverflow.com/users/flair/10907720.png?theme=dark" width="208" height="58" alt="Stack Overflow profile for Anand Raja" title="Stack Overflow profile for Anand Raja"/></a>
 
-  <br/><br/>
+  <br/>
 
   <!-- SO Stats badges — auto-updated daily by GitHub Action: stackoverflow-stats.yml -->
   <!-- Reputation: dynamic via shields.io stackexchange API -->
@@ -272,7 +272,7 @@ fun_fact: >
   <a href="https://stackoverflow.com/users/10907720/anand-raja?tab=questions" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Factionanand%2Factionanand%2Fmain%2Fstackoverflow-stats.json&query=%24.question_count&label=Questions&style=for-the-badge&logo=stackoverflow&logoColor=white&color=1E88E5" alt="Stack Overflow Questions"/></a>&nbsp;
   <a href="https://stackoverflow.com/users/10907720/anand-raja?tab=answers" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Factionanand%2Factionanand%2Fmain%2Fstackoverflow-stats.json&query=%24.answer_count&label=Answers&style=for-the-badge&logo=stackoverflow&logoColor=white&color=43A047" alt="Stack Overflow Answers"/></a>
 
-  <br/><br/>
+  <br/>
 
   <!-- Top Tags / Expertise (static badges reflecting Angular focus) -->
   <img src="https://img.shields.io/badge/Top%20Tag-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Top Tag: Angular"/>
