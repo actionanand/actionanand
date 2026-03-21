@@ -9,53 +9,59 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 3 * * *" # runs daily at 03:00 UTC
+    - cron: "0 3 * * *"   # daily at 03:00 UTC
 
 jobs:
-  update-so-stats:
+  fetch-stackoverflow-stats:
     runs-on: ubuntu-latest
-    name: Fetch & Update Stack Overflow Stats
+    name: Fetch Stack Overflow Stats
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Fetch Stack Overflow stats
-        id: so_stats
+      - name: Fetch stats from Stack Exchange API
         run: |
-          # Call Stack Exchange API (no auth key needed for public user data)
-          RESPONSE=$(curl -s "https://api.stackexchange.com/2.3/users/10907720?site=stackoverflow")
+          # filter=!nNPvSNdD4U explicitly includes question_count & answer_count
+          RESPONSE=$(curl -s "https://api.stackexchange.com/2.3/users/10907720?site=stackoverflow&filter=!nNPvSNdD4U")
 
-          REPUTATION=$(echo "$RESPONSE"  | python3 -c "import sys,json; d=json.load(sys.stdin)['items'][0]; print(d['reputation'])")
-          QUESTIONS=$(echo "$RESPONSE"   | python3 -c "import sys,json; d=json.load(sys.stdin)['items'][0]; print(d['question_count'])")
-          ANSWERS=$(echo "$RESPONSE"     | python3 -c "import sys,json; d=json.load(sys.stdin)['items'][0]; print(d['answer_count'])")
+          echo "Raw API response:"
+          echo "$RESPONSE"
 
-          echo "reputation=$REPUTATION" >> $GITHUB_OUTPUT
-          echo "questions=$QUESTIONS"   >> $GITHUB_OUTPUT
-          echo "answers=$ANSWERS"       >> $GITHUB_OUTPUT
+          # jq is pre-installed on ubuntu-latest runners
+          REPUTATION=$(echo "$RESPONSE"     | jq '.items[0].reputation')
+          QUESTION_COUNT=$(echo "$RESPONSE" | jq '.items[0].question_count')
+          ANSWER_COUNT=$(echo "$RESPONSE"   | jq '.items[0].answer_count')
 
-          echo "✅ Reputation: $REPUTATION | Questions: $QUESTIONS | Answers: $ANSWERS"
+          echo "Reputation   : $REPUTATION"
+          echo "Questions    : $QUESTION_COUNT"
+          echo "Answers      : $ANSWER_COUNT"
 
-      - name: Update README badges
+          # Fail fast if any value is null (rate-limited or API changed)
+          if [ "$REPUTATION" = "null" ] || [ "$QUESTION_COUNT" = "null" ] || [ "$ANSWER_COUNT" = "null" ]; then
+            echo "❌ One or more fields missing from API response. Aborting."
+            exit 1
+          fi
+
+          cat > stackoverflow-stats.json << ENDJSON
+          {
+            "question_count": $QUESTION_COUNT,
+            "answer_count": $ANSWER_COUNT,
+            "reputation": $REPUTATION
+          }
+          ENDJSON
+
+          echo "Generated stackoverflow-stats.json:"
+          cat stackoverflow-stats.json
+
+      - name: Commit and push stackoverflow-stats.json
         run: |
-          REPUTATION="${{ steps.so_stats.outputs.reputation }}"
-          QUESTIONS="${{ steps.so_stats.outputs.questions }}"
-          ANSWERS="${{ steps.so_stats.outputs.answers }}"
-
-          # Replace the number in each badge URL (the value between label- and -COLOR)
-          sed -i "s|badge/Reputation-[0-9]*-F58025|badge/Reputation-${REPUTATION}-F58025|g" README.md
-          sed -i "s|badge/Questions-[0-9]*-1E88E5|badge/Questions-${QUESTIONS}-1E88E5|g"   README.md
-          sed -i "s|badge/Answers-[0-9]*-43A047|badge/Answers-${ANSWERS}-43A047|g"         README.md
-
-      - name: Commit and push updated README
-        run: |
-          git config --global user.name  "github-actions[bot]"
+          git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add stackoverflow-stats.json
           git diff --staged --quiet && echo "No changes to commit" && exit 0
-          git commit -m "chore: update Stack Overflow stats [skip ci]"
+          git commit -m "chore: update stackoverflow stats [skip ci]"
           git pull --rebase origin main
           git push
