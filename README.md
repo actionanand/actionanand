@@ -294,6 +294,52 @@ fun_fact: >
 
 <br/>
 
+## <img src="https://img.shields.io/badge/-stackoverflow-F58025?style=flat&logo=stackoverflow&logoColor=white" height="25" alt="Stack Overflow"/> &nbsp;Stack Overflow
+
+<div align="center">
+
+  <!-- Stack Overflow Flair (official, auto-updates with reputation & badges) -->
+  <a href="https://stackoverflow.com/users/10907720/anand-raja" target="_blank">
+    <img src="https://stackoverflow.com/users/flair/10907720.png?theme=dark" width="208" height="58" alt="Stack Overflow profile for Anand Raja" title="Stack Overflow profile for Anand Raja"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- SO Stats badges — auto-updated daily by GitHub Action: stackoverflow-stats.yml -->
+  <!-- Reputation: dynamic via shields.io stackexchange API -->
+  <a href="https://stackoverflow.com/users/10907720/anand-raja" target="_blank">
+    <img src="https://img.shields.io/stackexchange/stackoverflow/r/10907720?style=for-the-badge&logo=stackoverflow&logoColor=white&label=Reputation&color=F58025" alt="Stack Overflow Reputation"/>
+  </a>&nbsp;
+  <!-- Questions & Answers: dynamic via shields.io JSON badge reading from stackoverflow-stats.json -->
+  <a href="https://stackoverflow.com/users/10907720/anand-raja?tab=questions" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Factionanand%2Factionanand%2Fmain%2Fstackoverflow-stats.json&query=%24.question_count&label=Questions&style=for-the-badge&logo=stackoverflow&logoColor=white&color=1E88E5" alt="Stack Overflow Questions"/>
+  </a>&nbsp;
+  <a href="https://stackoverflow.com/users/10907720/anand-raja?tab=answers" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Factionanand%2Factionanand%2Fmain%2Fstackoverflow-stats.json&query=%24.answer_count&label=Answers&style=for-the-badge&logo=stackoverflow&logoColor=white&color=43A047" alt="Stack Overflow Answers"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- Top Tags / Expertise (static badges reflecting Angular focus) -->
+  <img src="https://img.shields.io/badge/Top%20Tag-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Top Tag: Angular"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Top%20Tag-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="Top Tag: TypeScript"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Top%20Tag-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Top Tag: JavaScript"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Top%20Tag-Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white" alt="Top Tag: Node.js"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Top%20Tag-RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="Top Tag: RxJS"/>
+
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> &nbsp;GitHub Analytics
 
 <br/>
