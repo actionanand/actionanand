@@ -24,13 +24,14 @@ jobs:
 
       - name: Fetch stats from Stack Exchange API
         run: |
-          # filter=!nNPvSNdD4U explicitly includes question_count & answer_count
-          RESPONSE=$(curl -s "https://api.stackexchange.com/2.3/users/10907720?site=stackoverflow&filter=!nNPvSNdD4U")
+          # Default filter already includes question_count, answer_count & reputation
+          # --compressed tells curl to decompress the gzip response automatically
+          RESPONSE=$(curl -s --compressed "https://api.stackexchange.com/2.3/users/10907720?site=stackoverflow")
 
           echo "Raw API response:"
           echo "$RESPONSE"
 
-          # jq is pre-installed on ubuntu-latest runners
+          # Extract fields with jq (pre-installed on ubuntu-latest)
           REPUTATION=$(echo "$RESPONSE"     | jq '.items[0].reputation')
           QUESTION_COUNT=$(echo "$RESPONSE" | jq '.items[0].question_count')
           ANSWER_COUNT=$(echo "$RESPONSE"   | jq '.items[0].answer_count')
