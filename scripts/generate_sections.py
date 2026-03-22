@@ -24,16 +24,15 @@ TECH_BADGES = {
     "webassembly": ("WebAssembly",      "654FF0", "webassembly",  "white"),
 }
 
-def make_badge(tech):
+def make_badge(tech, style="for-the-badge"):
     key = tech.lower().strip()
     if key in TECH_BADGES:
         label, color, logo, logo_color = TECH_BADGES[key]
         return (f'<img src="https://img.shields.io/badge/{label}-{color}'
-                f'?style=flat-square&logo={logo}&logoColor={logo_color}" alt="{tech}"/>')
-    # fallback — grey badge, no logo
+                f'?style={style}&logo={logo}&logoColor={logo_color}" alt="{tech}"/>')
     safe = tech.replace(" ", "_").replace("-", "--")
     return (f'<img src="https://img.shields.io/badge/{safe}-555555'
-            f'?style=flat-square&logoColor=white" alt="{tech}"/>')
+            f'?style={style}&logoColor=white" alt="{tech}"/>')
 
 
 # ── Featured Projects ────────────────────────────────────────────────────────
@@ -46,22 +45,26 @@ def build_featured_projects(projects):
     lines.append("")
 
     for p in projects:
-        badges = " ".join(make_badge(t) for t in p["techStack"])
+        # tech badges — flat-square inside the card for a cleaner look
+        badges = "&nbsp;".join(make_badge(t, "flat-square") for t in p["techStack"])
         has_demo = p["liveDemoUrl"] not in ("N/A", "", None)
 
         demo_btn = ""
         if has_demo:
             demo_btn = (
-                f'&nbsp;<a href="{p["liveDemoUrl"]}" target="_blank">'
+                f'\n&nbsp;&nbsp;<a href="{p["liveDemoUrl"]}" target="_blank">'
                 f'<img src="https://img.shields.io/badge/🌐%20Live%20Demo-FF5722'
                 f'?style=for-the-badge" alt="Live Demo"/></a>'
             )
 
-        lines.append('<div align="left">')
+        # Full-width centered card using a single-cell table
+        lines.append('<table width="100%">')
+        lines.append('  <tr>')
+        lines.append('    <td align="center" style="padding: 20px;">')
         lines.append("")
-        lines.append(f'### [{p["name"]}]({p["gitHubUrl"]})')
+        lines.append(f'<h3><a href="{p["gitHubUrl"]}" target="_blank">📁 {p["name"]}</a></h3>')
         lines.append("")
-        lines.append(p["description"])
+        lines.append(f'<p>{p["description"]}</p>')
         lines.append("")
         lines.append(f'<p>{badges}</p>')
         lines.append("")
@@ -72,7 +75,9 @@ def build_featured_projects(projects):
             f'{demo_btn}'
         )
         lines.append("")
-        lines.append('</div>')
+        lines.append('    </td>')
+        lines.append('  </tr>')
+        lines.append('</table>')
         lines.append("")
         lines.append('<br/>')
         lines.append("")
@@ -89,12 +94,10 @@ def build_open_source(repos):
     lines.append("")
     lines.append("## 🌍 &nbsp;Open Source")
     lines.append("")
-    lines.append('<div align="left">')
     lines.append('<table width="100%">')
     lines.append("  <tr>")
 
     for i, r in enumerate(repos):
-        # detect host for badge color
         url = r["url"]
         if "github.com" in url:
             host_badge = ('https://img.shields.io/badge/GitHub-181717'
@@ -113,7 +116,7 @@ def build_open_source(repos):
                           '?style=flat-square&logoColor=white')
             host_label = "View"
 
-        lines.append(f'    <td valign="top" width="33%">')
+        lines.append(f'    <td align="center" valign="top" width="33%">')
         lines.append(f'      <h4><a href="{url}" target="_blank">{r["name"]}</a></h4>')
         lines.append(f'      <p>{r["description"]}</p>')
         lines.append(f'      <a href="{url}" target="_blank">'
@@ -127,7 +130,6 @@ def build_open_source(repos):
 
     lines.append("  </tr>")
     lines.append("</table>")
-    lines.append("</div>")
     lines.append("")
     lines.append("<!-- OPEN_SOURCE_END -->")
     return "\n".join(lines)
