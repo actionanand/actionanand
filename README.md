@@ -12,7 +12,7 @@
 
 <!-- Profile Badges -->
 <div align="center">
-  <a href="https://anand-resume.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/🌐%20Portfolio-anand--resume.pages.dev-FF5722?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://anand-resume.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/🌐%20Portfolio-Anand's Resume-FF5722?style=for-the-badge" alt="Portfolio"/></a>
 
   <br/><br/>
 
@@ -301,7 +301,7 @@ Creating angular 17 project without installing anything in host machine with the
 
 <table width="100%"><tr><td align="center" width="100%">
 
-### [Custom Pagination test](https://github.com/actionanand/ng-feature-pagination)
+### [Custom Pagination with Angular Material](https://github.com/actionanand/ng-feature-pagination)
 
 This is a simple custom pagination application along with translation built using Angular Material.
 
