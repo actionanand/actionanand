@@ -378,7 +378,7 @@ This is a simple weather forecast application built using AngularJS with modern 
     </td>
     <td valign="top" width="33%">
       <h4><a href="https://rubygems.org/gems/ss7" target="_blank">ss7</a></h4>
-      <p>This is a ruby gem for PC77 (Point Code 77) which is a signaling point code format used in Nokia's R4 network infrastructure for SS7 (Signaling System No. 7) telecommunications networks. It represents a 14-bit point code as two 7-bit decimal numbers separated by a hyphen.</p>
+      <p>This is a ruby gem for PC77, which is a signaling point code format used in Nokia's R4 network infrastructure for SS7 telecommunications networks.</p>
       <a href="https://rubygems.org/gems/ss7" target="_blank"><img src="https://img.shields.io/badge/RubyGems-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="RubyGems"/></a>
     </td>
     <td valign="top" width="33%">
