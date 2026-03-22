@@ -299,9 +299,7 @@ fun_fact: >
 
 ## 🚀 &nbsp;Featured Projects
 
-<div align="center">
-
-<table width="100%"><tr><td valign="top" width="100%">
+<div align="left">
 
 ### [Single Spa polyglot project](https://github.com/actionanand/single-spa-demo-root-config)
 
@@ -309,13 +307,13 @@ This is a polyglot Single-Spa root configuration application (built on vanilla j
 
 <p><img src="https://img.shields.io/badge/Single--SPA-E91E63?style=flat-square&logo=single-spa&logoColor=white" alt="single-spa"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="angular"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="css"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javascript"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="react"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="vue"/> <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="svelte"/></p>
 
-<a href="https://github.com/actionanand/single-spa-demo-root-config" target="_blank"><img src="https://img.shields.io/badge/📂 View Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>&nbsp;<a href="https://ar-single-spa.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/🌐 Live Demo-FF5722?style=for-the-badge" alt="Live Demo"/></a>
+<a href="https://github.com/actionanand/single-spa-demo-root-config" target="_blank"><img src="https://img.shields.io/badge/📂%20View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>&nbsp;<a href="https://ar-single-spa.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-FF5722?style=for-the-badge" alt="Live Demo"/></a>
 
-</td></tr></table>
+</div>
 
 <br/>
 
-<table width="100%"><tr><td valign="top" width="100%">
+<div align="left">
 
 ### [Angular with Docker](https://github.com/actionanand/angular_with_docker)
 
@@ -323,13 +321,13 @@ Creating angular 17 project without installing anything in host machine with the
 
 <p><img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="angular"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="docker"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javascript"/> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white" alt="node js"/></p>
 
-<a href="https://github.com/actionanand/angular_with_docker" target="_blank"><img src="https://img.shields.io/badge/📂 View Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>
+<a href="https://github.com/actionanand/angular_with_docker" target="_blank"><img src="https://img.shields.io/badge/📂%20View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>
 
-</td></tr></table>
+</div>
 
 <br/>
 
-<table width="100%"><tr><td valign="top" width="100%">
+<div align="left">
 
 ### [Custom Pagination](https://github.com/actionanand/ng-feature-pagination)
 
@@ -337,13 +335,13 @@ This is a simple custom pagination application along with translation built usin
 
 <p><img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="angular"/> <img src="https://img.shields.io/badge/Angular+Material-757575?style=flat-square&logo=angular&logoColor=white" alt="material"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="typescript"/></p>
 
-<a href="https://github.com/actionanand/ng-feature-pagination" target="_blank"><img src="https://img.shields.io/badge/📂 View Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>&nbsp;<a href="https://actionanand.github.io/ng-feature-pagination/server-pagination" target="_blank"><img src="https://img.shields.io/badge/🌐 Live Demo-FF5722?style=for-the-badge" alt="Live Demo"/></a>
+<a href="https://github.com/actionanand/ng-feature-pagination" target="_blank"><img src="https://img.shields.io/badge/📂%20View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>&nbsp;<a href="https://actionanand.github.io/ng-feature-pagination/server-pagination" target="_blank"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-FF5722?style=for-the-badge" alt="Live Demo"/></a>
 
-</td></tr></table>
+</div>
 
 <br/>
 
-<table width="100%"><tr><td valign="top" width="100%">
+<div align="left">
 
 ### [Forecast AngularJS](https://github.com/actionanand/forecast)
 
@@ -351,13 +349,11 @@ This is a simple weather forecast application built using AngularJS with modern 
 
 <p><img src="https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white" alt="angular js"/> <img src="https://img.shields.io/badge/ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="es6"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="css"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="bootstrap"/></p>
 
-<a href="https://github.com/actionanand/forecast" target="_blank"><img src="https://img.shields.io/badge/📂 View Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>&nbsp;<a href="https://actionanand.github.io/forecast/" target="_blank"><img src="https://img.shields.io/badge/🌐 Live Demo-FF5722?style=for-the-badge" alt="Live Demo"/></a>
-
-</td></tr></table>
-
-<br/>
+<a href="https://github.com/actionanand/forecast" target="_blank"><img src="https://img.shields.io/badge/📂%20View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>&nbsp;<a href="https://actionanand.github.io/forecast/" target="_blank"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-FF5722?style=for-the-badge" alt="Live Demo"/></a>
 
 </div>
+
+<br/>
 
 <!-- FEATURED_PROJECTS_END -->
 
@@ -372,8 +368,7 @@ This is a simple weather forecast application built using AngularJS with modern 
 
 ## 🌍 &nbsp;Open Source
 
-<div align="center">
-
+<div align="left">
 <table width="100%">
   <tr>
     <td valign="top" width="33%">
@@ -393,7 +388,6 @@ This is a simple weather forecast application built using AngularJS with modern 
     </td>
   </tr>
 </table>
-
 </div>
 
 <!-- OPEN_SOURCE_END -->
