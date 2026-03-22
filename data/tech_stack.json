@@ -1,0 +1,53 @@
+[
+  {
+    "section": "🎨 Frontend Development",
+    "items": [
+      "Angular", "React", "Vue.js", "Svelte", "Next.js", "Remix", "Astro",
+      "Scully", "AnalogJS", "JavaScript", "TypeScript", "CoffeeScript",
+      "ES6", "ESNext", "RxJS", "NgRx", "Redux", "Redux Saga", "Redux Thunk",
+      "MobX", "Single-SPA", "HTML5", "CSS3", "Sass", "Tailwind CSS",
+      "Bootstrap", "Angular Material", "D3.js", "WebAssembly", "TanStack"
+    ]
+  },
+  {
+    "section": "⚙️ Backend Development",
+    "items": [
+      "Node.js", "Express", "NestJS", "GraphQL", "Deno", "Python",
+      "Go", "C", "C++", "Rust", "Ruby", "Ruby on Rails", "Django"
+    ]
+  },
+  {
+    "section": "🗄️ Databases",
+    "items": ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Firebase", "SQLite"]
+  },
+  {
+    "section": "📱 Mobile Development",
+    "items": ["Ionic", "React Native", "Flutter"]
+  },
+  {
+    "section": "☁️ Cloud & DevOps",
+    "items": [
+      "AWS", "Google Cloud", "Heroku", "Docker", "Jenkins", "Terraform",
+      "Nginx", "Git", "GitHub Actions", "Nx", "Linux", "Bash"
+    ]
+  },
+  {
+    "section": "🧪 Testing",
+    "items": ["Jest", "Vitest", "Jasmine", "Karma", "Postman"]
+  },
+  {
+    "section": "🛠️ Tools & Build Systems",
+    "items": [
+      "Webpack", "Babel", "Gulp", "npm", "Yarn", "pnpm", "Bun",
+      "VS Code", "Figma", "ESLint", "Mermaid"
+    ]
+  },
+  {
+    "section": "🤖 AI & Machine Learning",
+    "items": [
+      "OpenAI", "LangChain", "Ollama", "Hugging Face",
+      "Claude Code", "OpenCode", "OpenAI Codex", "GitHub Copilot",
+      "ChatGPT", "Qwen AI", "DeepSeek", "Gemini AI"
+    ]
+  }
+]

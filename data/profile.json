@@ -1,0 +1,27 @@
+{
+  "name": "Anand Raja",
+  "location": "Bangalore, India",
+  "role": "Full-Stack Web Developer (AI-Augmented Development)",
+  "experience": "8+ years",
+  "portfolio_url": "https://anand-resume.pages.dev/",
+  "portfolio_display": "Anand's Resume",
+  "focus_areas": {
+    "primary": "Angular (Frontend Specialist)",
+    "frontend": ["Angular", "React", "Vue.js", "Vanilla JS"],
+    "backend": ["Node.js", "Express", "NestJS", "GraphQL"],
+    "mobile": ["Ionic", "React Native"]
+  },
+  "current_goals": [
+    "Mastering advanced Angular patterns",
+    "Exploring GraphQL & Deno",
+    "Contributing to open source",
+    "Writing technical blog posts"
+  ],
+  "fun_fact": "I turn coffee into code and bugs into features!",
+  "typing_lines": [
+    "Angular 🅰️ is my Superpower",
+    "Building Scalable Web Applications",
+    "JavaScript | TypeScript | Node.js Expert",
+    "Clean Code • Best Practices • Performance"
+  ]
+}
