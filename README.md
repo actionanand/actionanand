@@ -330,7 +330,7 @@ Creating angular 17 project without installing anything in host machine with the
 
 <table width="100%"><tr><td align="center" width="100%">
 
-### [Custom Pagination](https://github.com/actionanand/ng-feature-pagination)
+### [Custom Pagination test](https://github.com/actionanand/ng-feature-pagination)
 
 This is a simple custom pagination application along with translation built using Angular Material.
 
