@@ -38,6 +38,7 @@
 name: Anand Raja
 location: Bangalore, India
 role: Full-Stack Web Developer (AI-Augmented Development)
+experience: 8+ years
 
 focus_areas:
   primary: Angular (Frontend Specialist)
@@ -299,59 +300,78 @@ fun_fact: >
 
 ## 🚀 &nbsp;Featured Projects
 
-<div align="left">
+<table width="100%">
+  <tr>
+    <td align="center" style="padding: 20px;">
 
-### [Single Spa polyglot project](https://github.com/actionanand/single-spa-demo-root-config)
+<h3><a href="https://github.com/actionanand/single-spa-demo-root-config" target="_blank">📁 Single Spa polyglot project</a></h3>
 
-This is a polyglot Single-Spa root configuration application (built on vanilla js) designed to orchestrate multiple microfrontend applications.
+<p>This is a polyglot Single-Spa root configuration application (built on vanilla js) designed to orchestrate multiple microfrontend applications.</p>
 
-<p><img src="https://img.shields.io/badge/Single--SPA-E91E63?style=flat-square&logo=single-spa&logoColor=white" alt="single-spa"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="angular"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="css"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javascript"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="react"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="vue"/> <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="svelte"/></p>
+<p><img src="https://img.shields.io/badge/Single--SPA-E91E63?style=flat-square&logo=single-spa&logoColor=white" alt="single-spa"/>&nbsp;<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="angular"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="css"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javascript"/>&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="react"/>&nbsp;<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="vue"/>&nbsp;<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="svelte"/></p>
 
-<a href="https://github.com/actionanand/single-spa-demo-root-config" target="_blank"><img src="https://img.shields.io/badge/📂%20View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>&nbsp;<a href="https://ar-single-spa.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-FF5722?style=for-the-badge" alt="Live Demo"/></a>
+<a href="https://github.com/actionanand/single-spa-demo-root-config" target="_blank"><img src="https://img.shields.io/badge/📂%20View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>
+&nbsp;&nbsp;<a href="https://ar-single-spa.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-FF5722?style=for-the-badge" alt="Live Demo"/></a>
 
-</div>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<div align="left">
+<table width="100%">
+  <tr>
+    <td align="center" style="padding: 20px;">
 
-### [Angular with Docker](https://github.com/actionanand/angular_with_docker)
+<h3><a href="https://github.com/actionanand/angular_with_docker" target="_blank">📁 Angular with Docker</a></h3>
 
-Creating angular 17 project without installing anything in host machine with the help of docker.
+<p>Creating angular 17 project without installing anything in host machine with the help of docker.</p>
 
-<p><img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="angular"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="docker"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javascript"/> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white" alt="node js"/></p>
+<p><img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="angular"/>&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="docker"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javascript"/>&nbsp;<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white" alt="node js"/></p>
 
 <a href="https://github.com/actionanand/angular_with_docker" target="_blank"><img src="https://img.shields.io/badge/📂%20View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>
 
-</div>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<div align="left">
+<table width="100%">
+  <tr>
+    <td align="center" style="padding: 20px;">
 
-### [Custom Pagination](https://github.com/actionanand/ng-feature-pagination)
+<h3><a href="https://github.com/actionanand/ng-feature-pagination" target="_blank">📁 Custom Pagination</a></h3>
 
-This is a simple custom pagination application along with translation built using Angular Material.
+<p>This is a simple custom pagination application along with translation built using Angular Material.</p>
 
-<p><img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="angular"/> <img src="https://img.shields.io/badge/Angular+Material-757575?style=flat-square&logo=angular&logoColor=white" alt="material"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="typescript"/></p>
+<p><img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="angular"/>&nbsp;<img src="https://img.shields.io/badge/Angular+Material-757575?style=flat-square&logo=angular&logoColor=white" alt="material"/>&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="typescript"/></p>
 
-<a href="https://github.com/actionanand/ng-feature-pagination" target="_blank"><img src="https://img.shields.io/badge/📂%20View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>&nbsp;<a href="https://actionanand.github.io/ng-feature-pagination/server-pagination" target="_blank"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-FF5722?style=for-the-badge" alt="Live Demo"/></a>
+<a href="https://github.com/actionanand/ng-feature-pagination" target="_blank"><img src="https://img.shields.io/badge/📂%20View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>
+&nbsp;&nbsp;<a href="https://actionanand.github.io/ng-feature-pagination/server-pagination" target="_blank"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-FF5722?style=for-the-badge" alt="Live Demo"/></a>
 
-</div>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<div align="left">
+<table width="100%">
+  <tr>
+    <td align="center" style="padding: 20px;">
 
-### [Forecast AngularJS](https://github.com/actionanand/forecast)
+<h3><a href="https://github.com/actionanand/forecast" target="_blank">📁 Forecast AngularJS</a></h3>
 
-This is a simple weather forecast application built using AngularJS with modern webpack approach and ES6.
+<p>This is a simple weather forecast application built using AngularJS with modern webpack approach and ES6.</p>
 
-<p><img src="https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white" alt="angular js"/> <img src="https://img.shields.io/badge/ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="es6"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="css"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="bootstrap"/></p>
+<p><img src="https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white" alt="angular js"/>&nbsp;<img src="https://img.shields.io/badge/ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="es6"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="css"/>&nbsp;<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="bootstrap"/></p>
 
-<a href="https://github.com/actionanand/forecast" target="_blank"><img src="https://img.shields.io/badge/📂%20View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>&nbsp;<a href="https://actionanand.github.io/forecast/" target="_blank"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-FF5722?style=for-the-badge" alt="Live Demo"/></a>
+<a href="https://github.com/actionanand/forecast" target="_blank"><img src="https://img.shields.io/badge/📂%20View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>
+&nbsp;&nbsp;<a href="https://actionanand.github.io/forecast/" target="_blank"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-FF5722?style=for-the-badge" alt="Live Demo"/></a>
 
-</div>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -368,27 +388,25 @@ This is a simple weather forecast application built using AngularJS with modern 
 
 ## 🌍 &nbsp;Open Source
 
-<div align="left">
 <table width="100%">
   <tr>
-    <td valign="top" width="33%">
+    <td align="center" valign="top" width="33%">
       <h4><a href="https://github.com/actionanand/angular-lib-demo" target="_blank">Angular Input Library</a></h4>
       <p>This repository contains the source code for the Angular libraries (npm publishable) '@ng-ar/md-input', '@ng-ar/svg-icon', '@ng-ar/input' and '@ng-ar/bg-svg'.</p>
       <a href="https://github.com/actionanand/angular-lib-demo" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
     </td>
-    <td valign="top" width="33%">
+    <td align="center" valign="top" width="33%">
       <h4><a href="https://rubygems.org/gems/ss7" target="_blank">ss7</a></h4>
       <p>This is a ruby gem for PC77 (Point Code 77) which is a signaling point code format used in Nokia's R4 network infrastructure for SS7 (Signaling System No. 7) telecommunications networks.</p>
       <a href="https://rubygems.org/gems/ss7" target="_blank"><img src="https://img.shields.io/badge/RubyGems-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="RubyGems"/></a>
     </td>
-    <td valign="top" width="33%">
+    <td align="center" valign="top" width="33%">
       <h4><a href="https://www.npmjs.com/package/ar_snake_game" target="_blank">Nokia Snake Game</a></h4>
       <p>This is a mini game to learn about webassembly with the help of rust language. The concept is running old Nokia Snake game in web using rust.</p>
       <a href="https://www.npmjs.com/package/ar_snake_game" target="_blank"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"/></a>
     </td>
   </tr>
 </table>
-</div>
 
 <!-- OPEN_SOURCE_END -->
 
