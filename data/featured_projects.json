@@ -14,7 +14,7 @@
     "liveDemoUrl": "N/A"
   },
   {
-    "name": "Custom Pagination test",
+    "name": "Custom Pagination with Angular Material",
     "description": "This is a simple custom pagination application along with translation built using Angular Material.",
     "techStack": ["angular", "material", "typescript"],
     "gitHubUrl": "https://github.com/actionanand/ng-feature-pagination",
