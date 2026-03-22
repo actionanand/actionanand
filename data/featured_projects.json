@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Single Spa polyglot project",
+    "description": "This is a polyglot Single-Spa root configuration application (built on vanilla js) designed to orchestrate multiple microfrontend applications.",
+    "techStack": ["single-spa", "angular", "css", "javascript", "react", "vue", "svelte"],
+    "gitHubUrl": "https://github.com/actionanand/single-spa-demo-root-config",
+    "liveDemoUrl": "https://ar-single-spa.onrender.com/"
+  },
+  {
+    "name": "Angular with Docker",
+    "description": "Creating angular 17 project without installing anything in host machine with the help of docker.",
+    "techStack": ["angular", "docker", "javascript", "node js"],
+    "gitHubUrl": "https://github.com/actionanand/angular_with_docker",
+    "liveDemoUrl": "N/A"
+  },
+  {
+    "name": "Custom Pagination",
+    "description": "This is a simple custom pagination application along with translation built using Angular Material.",
+    "techStack": ["angular", "material", "typescript"],
+    "gitHubUrl": "https://github.com/actionanand/ng-feature-pagination",
+    "liveDemoUrl": "https://actionanand.github.io/ng-feature-pagination/server-pagination"
+  },
+  {
+    "name": "Forecast AngularJS",
+    "description": "This is a simple weather forecast application built using AngularJS with modern webpack approach and ES6.",
+    "techStack": ["angular js", "es6", "css", "bootstrap"],
+    "gitHubUrl": "https://github.com/actionanand/forecast",
+    "liveDemoUrl": "https://actionanand.github.io/forecast/"
+  }
+]
