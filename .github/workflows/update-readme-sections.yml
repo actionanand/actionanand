@@ -16,6 +16,10 @@ on:
       - "data/open_source_projects.json"
       - "scripts/generate_sections.py"
 
+concurrency:
+  group: readme-push
+  cancel-in-progress: false
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -41,13 +45,22 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           git diff --staged --quiet && echo "No changes to commit" && exit 0
-          git commit -m "chore: update README sections [skip ci]"
 
-          # Retry push up to 5 times to handle concurrent workflow race conditions
+          # Retry loop: pull rebase THEN commit THEN push to avoid stale ref
           for i in 1 2 3 4 5; do
-            git pull --rebase origin main && git push && echo "✅ Push succeeded on attempt $i" && exit 0
-            echo "⚠️  Attempt $i failed, retrying in 5s..."
-            sleep 5
+            echo "Attempt $i..."
+            # Reset staged changes, pull latest, re-stage, commit, push
+            git reset HEAD README.md
+            git stash
+            git pull --rebase origin main
+            git stash pop
+            git add README.md
+            git diff --staged --quiet && echo "No changes after rebase" && exit 0
+            git commit -m "chore: update README sections [skip ci]"
+            git push && echo "✅ Push succeeded on attempt $i" && exit 0
+            echo "⚠️  Attempt $i failed, retrying in $((i * 3))s..."
+            git reset --soft HEAD~1
+            sleep $((i * 3))
           done
 
           echo "❌ Push failed after 5 attempts"
