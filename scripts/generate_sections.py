@@ -226,7 +226,7 @@ def build_header(profile):
   &nbsp;
   <a href="https://github.com/actionanand?tab=followers"><img src="https://img.shields.io/github/followers/actionanand?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github" alt="GitHub followers"/></a>
   &nbsp;
-  <a href="https://twitter.com/actionanand" target="_blank"><img src="https://img.shields.io/twitter/follow/actionanand?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1A8CD8" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/anand-ns" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 <!-- HEADER_END -->"""
 
@@ -238,6 +238,9 @@ def build_header(profile):
 def build_about_me(profile):
     fa     = profile["focus_areas"]
     goals  = "\n".join(f"  - {g}" for g in profile["current_goals"])
+    open_to = profile.get("open_to", [])
+    open_to_line = f"\nopen_to: [{', '.join(open_to)}]" if open_to else ""
+
     return f"""<!-- ABOUT_ME_START -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;About Me
 
@@ -259,7 +262,7 @@ current_goals:
 {goals}
 
 fun_fact: >
-  {profile["fun_fact"]}
+  {profile["fun_fact"]}{open_to_line}
 ```
 
 <br clear="both"/>
