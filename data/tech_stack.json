@@ -2,56 +2,159 @@
   {
     "section": "🎨 Frontend Development",
     "items": [
-      "Angular", "React", "Vue.js", "Svelte", "Next.js", "Remix", "Astro",
-      "Scully", "AnalogJS", "JavaScript", "TypeScript", "CoffeeScript",
-      "ES6", "ESNext", "RxJS", "NgRx", "Redux", "Redux Saga", "Redux Thunk",
-      "MobX", "Single-SPA", "HTML5", "CSS3", "Sass", "Tailwind CSS",
-      "Bootstrap", "Angular Material", "D3.js", "WebAssembly", "Wasm", "TanStack", 
-      "MEAN Stack", "MERN Stack", "JAM Stack", "PWA", "Web Components", "Three.js",
-      "Handlebars", "EJS", "Pug"
+      { "name": "Angular",          "url": "https://angular.dev" },
+      { "name": "React",            "url": "https://reactjs.org" },
+      { "name": "Vue.js",           "url": "https://vuejs.org" },
+      { "name": "Svelte",           "url": "https://svelte.dev" },
+      { "name": "Next.js",          "url": "https://nextjs.org" },
+      { "name": "Remix",            "url": "https://remix.run" },
+      { "name": "Astro",            "url": "https://astro.build" },
+      { "name": "Scully",           "url": "https://scully.io" },
+      { "name": "AnalogJS",         "url": "https://analogjs.org" },
+      { "name": "JavaScript",       "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript" },
+      { "name": "TypeScript",       "url": "https://www.typescriptlang.org" },
+      { "name": "CoffeeScript",     "url": "https://coffeescript.org" },
+      { "name": "ES6",              "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript" },
+      { "name": "ESNext",           "url": "https://tc39.es" },
+      { "name": "RxJS",             "url": "https://rxjs.dev" },
+      { "name": "NgRx",             "url": "https://ngrx.io" },
+      { "name": "Redux",            "url": "https://redux.js.org" },
+      { "name": "Redux Saga",       "url": "https://redux-saga.js.org" },
+      { "name": "Redux Thunk",      "url": "https://github.com/reduxjs/redux-thunk" },
+      { "name": "MobX",             "url": "https://mobx.js.org" },
+      { "name": "Single-SPA",       "url": "https://single-spa.js.org" },
+      { "name": "HTML5",            "url": "https://www.w3.org/html" },
+      { "name": "CSS3",             "url": "https://www.w3.org/Style/CSS" },
+      { "name": "Sass",             "url": "https://sass-lang.com" },
+      { "name": "Tailwind CSS",     "url": "https://tailwindcss.com" },
+      { "name": "Bootstrap",        "url": "https://getbootstrap.com" },
+      { "name": "Angular Material", "url": "https://material.angular.io" },
+      { "name": "D3.js",            "url": "https://d3js.org" },
+      { "name": "WebAssembly",      "url": "https://webassembly.org" },
+      { "name": "Wasm",             "url": "https://webassembly.org" },
+      { "name": "TanStack",         "url": "https://tanstack.com" },
+      { "name": "MEAN Stack" },
+      { "name": "MERN Stack" },
+      { "name": "JAM Stack",        "url": "https://jamstack.org" },
+      { "name": "PWA",              "url": "https://web.dev/progressive-web-apps" },
+      { "name": "Web Components",   "url": "https://www.webcomponents.org" },
+      { "name": "Three.js",         "url": "https://threejs.org" },
+      { "name": "Handlebars",       "url": "https://handlebarsjs.com" },
+      { "name": "EJS",              "url": "https://ejs.co" },
+      { "name": "Pug",              "url": "https://pugjs.org" }
     ]
   },
   {
     "section": "⚙️ Backend Development",
     "items": [
-      "Node.js", "Express", "NestJS", "GraphQL", "Deno", "Python",
-      "Go", "C", "C++", "Rust", "Ruby", "Ruby on Rails", "Django"
+      { "name": "Node.js",        "url": "https://nodejs.org" },
+      { "name": "Express",        "url": "https://expressjs.com" },
+      { "name": "NestJS",         "url": "https://nestjs.com" },
+      { "name": "GraphQL",        "url": "https://graphql.org" },
+      { "name": "Deno",           "url": "https://deno.land" },
+      { "name": "Python",         "url": "https://www.python.org" },
+      { "name": "Go",             "url": "https://golang.org" },
+      { "name": "C",              "url": "https://www.cprogramming.com" },
+      { "name": "C++",            "url": "https://www.w3schools.com/cpp" },
+      { "name": "Rust",           "url": "https://www.rust-lang.org" },
+      { "name": "Ruby",           "url": "https://www.ruby-lang.org" },
+      { "name": "Ruby on Rails",  "url": "https://rubyonrails.org" },
+      { "name": "Django",         "url": "https://www.djangoproject.com" }
     ]
   },
   {
     "section": "🗄️ Databases",
-    "items": ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Firebase", "SQLite"]
+    "items": [
+      { "name": "MongoDB",    "url": "https://www.mongodb.com" },
+      { "name": "PostgreSQL", "url": "https://www.postgresql.org" },
+      { "name": "MySQL",      "url": "https://www.mysql.com" },
+      { "name": "Redis",      "url": "https://redis.io" },
+      { "name": "Firebase",   "url": "https://firebase.google.com" },
+      { "name": "SQLite",     "url": "https://www.sqlite.org" }
+    ]
   },
   {
     "section": "📱 Mobile Development",
-    "items": ["Ionic", "React Native", "Flutter"]
+    "items": [
+      { "name": "Ionic",        "url": "https://ionicframework.com" },
+      { "name": "React Native", "url": "https://reactnative.dev" },
+      { "name": "Flutter",      "url": "https://flutter.dev" }
+    ]
   },
   {
     "section": "☁️ Cloud & DevOps",
     "items": [
-      "AWS", "Google Cloud", "Heroku", "Docker", "Jenkins", "Spinnaker", "Terraform",
-      "AirFlow", "Rundeck", "Backstage IO", "Nginx", "Git", "GitHub Actions", 
-      "Nx", "Linux", "Bash", "WSL"
+      { "name": "AWS",            "url": "https://aws.amazon.com" },
+      { "name": "Google Cloud",   "url": "https://cloud.google.com" },
+      { "name": "Heroku",         "url": "https://heroku.com" },
+      { "name": "Docker",         "url": "https://www.docker.com" },
+      { "name": "Jenkins",        "url": "https://www.jenkins.io" },
+      { "name": "Spinnaker",      "url": "https://spinnaker.io" },
+      { "name": "Terraform",      "url": "https://www.terraform.io" },
+      { "name": "AirFlow",        "url": "https://airflow.apache.org" },
+      { "name": "Rundeck",        "url": "https://www.rundeck.com" },
+      { "name": "Backstage IO",   "url": "https://backstage.io" },
+      { "name": "Nginx",          "url": "https://www.nginx.com" },
+      { "name": "Git",            "url": "https://git-scm.com" },
+      { "name": "GitHub Actions", "url": "https://github.com/features/actions" },
+      { "name": "Nx",             "url": "https://nx.dev" },
+      { "name": "Linux",          "url": "https://www.linux.org" },
+      { "name": "Bash",           "url": "https://www.gnu.org/software/bash" },
+      { "name": "WSL",            "url": "https://learn.microsoft.com/windows/wsl" }
     ]
   },
   {
     "section": "🧪 Testing",
-    "items": ["Jest", "Vitest", "Jasmine", "Karma", "Postman"]
+    "items": [
+      { "name": "Jest",     "url": "https://jestjs.io" },
+      { "name": "Vitest",   "url": "https://vitest.dev" },
+      { "name": "Jasmine",  "url": "https://jasmine.github.io" },
+      { "name": "Karma",    "url": "https://karma-runner.github.io" },
+      { "name": "Postman",  "url": "https://postman.com" }
+    ]
   },
   {
     "section": "🛠️ Tools & Build Systems",
     "items": [
-      "Webpack", "Babel", "Gulp", "nvm", "npm", "Yarn", "pnpm", "Bun",
-      "VS Code", "Figma", "InVision", "ESLint", "Biome", "Mermaid", "Miniconda",
-      "Katex", "Prism js", "Shiki"
+      { "name": "Webpack",    "url": "https://webpack.js.org" },
+      { "name": "Babel",      "url": "https://babeljs.io" },
+      { "name": "Gulp",       "url": "https://gulpjs.com" },
+      { "name": "nvm",        "url": "https://github.com/nvm-sh/nvm" },
+      { "name": "npm",        "url": "https://www.npmjs.com" },
+      { "name": "Yarn",       "url": "https://yarnpkg.com" },
+      { "name": "pnpm",       "url": "https://pnpm.io" },
+      { "name": "Bun",        "url": "https://bun.sh" },
+      { "name": "VS Code",    "url": "https://code.visualstudio.com" },
+      { "name": "Figma",      "url": "https://www.figma.com" },
+      { "name": "InVision",   "url": "https://www.invisionapp.com" },
+      { "name": "ESLint",     "url": "https://eslint.org" },
+      { "name": "Biome",      "url": "https://biomejs.dev" },
+      { "name": "Mermaid",    "url": "https://mermaid.js.org" },
+      { "name": "Miniconda",  "url": "https://docs.conda.io/en/latest/miniconda.html" },
+      { "name": "Katex",      "url": "https://katex.org" },
+      { "name": "Prism js",   "url": "https://prismjs.com" },
+      { "name": "Shiki",      "url": "https://shiki.style" }
     ]
   },
   {
     "section": "🤖 AI & Machine Learning",
     "items": [
-      "OpenAI", "LangChain", "Ollama", "Hugging Face",
-      "Claude Code", "OpenCode", "OpenAI Codex", "GitHub Copilot",
-      "RAG", "AI Agents", "LLM",  "Vector DB", "ChatGPT", "Qwen AI", "DeepSeek", "Gemini AI"
+      { "name": "OpenAI",         "url": "https://openai.com" },
+      { "name": "LangChain",      "url": "https://www.langchain.com" },
+      { "name": "Ollama",         "url": "https://ollama.com" },
+      { "name": "Hugging Face",   "url": "https://huggingface.co" },
+      { "name": "Claude Code",    "url": "https://claude.ai/code" },
+      { "name": "OpenCode",       "url": "https://opencode.ai" },
+      { "name": "OpenAI Codex",   "url": "https://openai.com/blog/openai-codex" },
+      { "name": "GitHub Copilot", "url": "https://github.com/features/copilot" },
+      { "name": "RAG" },
+      { "name": "AI Agents" },
+      { "name": "LLM" },
+      { "name": "Vector DB" },
+      { "name": "ChatGPT",        "url": "https://chat.openai.com" },
+      { "name": "Qwen AI",        "url": "https://qwen.ai" },
+      { "name": "DeepSeek",       "url": "https://deepseek.com" },
+      { "name": "Gemini AI",      "url": "https://gemini.google.com" }
     ]
   }
 ]

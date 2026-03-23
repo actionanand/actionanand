@@ -164,15 +164,29 @@ TECH_BADGES = {
 }
 
 def make_badge(tech, style="for-the-badge"):
-    key = tech.lower().strip()
+    """tech can be a plain string or a dict with 'name' and optional 'url'."""
+    if isinstance(tech, dict):
+        name = tech["name"]
+        url  = tech.get("url", "").strip()
+    else:
+        name = tech
+        url  = ""
+
+    key = name.lower().strip()
     if key in TECH_BADGES:
         label, color, logo, logo_color = TECH_BADGES[key]
-        return (f'<img src="https://img.shields.io/badge/{label}-{color}'
-                f'?style={style}&logo={logo}&logoColor={logo_color}" alt="{tech}"/>')
-    # fallback — grey badge with tech name, no logo
-    safe = tech.replace(" ", "_").replace("-", "--")
-    return (f'<img src="https://img.shields.io/badge/{safe}-555555'
-            f'?style={style}&logoColor=white" alt="{tech}"/>')
+        img = (f'<img src="https://img.shields.io/badge/{label}-{color}'
+               f'?style={style}&logo={logo}&logoColor={logo_color}" alt="{name}"/>')
+    else:
+        # fallback — grey badge with tech name, no logo
+        safe = name.replace(" ", "_").replace("-", "--")
+        img  = (f'<img src="https://img.shields.io/badge/{safe}-555555'
+                f'?style={style}&logoColor=white" alt="{name}"/>')
+
+    # wrap in <a> only when a URL is provided
+    if url:
+        return f'<a href="{url}" target="_blank">{img}</a>'
+    return img
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
