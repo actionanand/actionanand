@@ -6,7 +6,9 @@
       "Scully", "AnalogJS", "JavaScript", "TypeScript", "CoffeeScript",
       "ES6", "ESNext", "RxJS", "NgRx", "Redux", "Redux Saga", "Redux Thunk",
       "MobX", "Single-SPA", "HTML5", "CSS3", "Sass", "Tailwind CSS",
-      "Bootstrap", "Angular Material", "D3.js", "WebAssembly", "TanStack"
+      "Bootstrap", "Angular Material", "D3.js", "WebAssembly", "Wasm", "TanStack", 
+      "MEAN Stack", "MERN Stack", "JAM Stack", "PWA", "Web Components", "Three.js",
+      "Handlebars", "EJS", "Pug"
     ]
   },
   {
@@ -27,8 +29,9 @@
   {
     "section": "☁️ Cloud & DevOps",
     "items": [
-      "AWS", "Google Cloud", "Heroku", "Docker", "Jenkins", "Terraform",
-      "Nginx", "Git", "GitHub Actions", "Nx", "Linux", "Bash"
+      "AWS", "Google Cloud", "Heroku", "Docker", "Jenkins", "Spinnaker", "Terraform",
+      "AirFlow", "Rundeck", "Backstage IO", "Nginx", "Git", "GitHub Actions", 
+      "Nx", "Linux", "Bash", "WSL"
     ]
   },
   {
@@ -38,8 +41,9 @@
   {
     "section": "🛠️ Tools & Build Systems",
     "items": [
-      "Webpack", "Babel", "Gulp", "npm", "Yarn", "pnpm", "Bun",
-      "VS Code", "Figma", "ESLint", "Mermaid"
+      "Webpack", "Babel", "Gulp", "nvm", "npm", "Yarn", "pnpm", "Bun",
+      "VS Code", "Figma", "InVision", "ESLint", "Biome", "Mermaid", "Miniconda",
+      "Katex", "Prism js", "Shiki"
     ]
   },
   {
@@ -47,7 +51,7 @@
     "items": [
       "OpenAI", "LangChain", "Ollama", "Hugging Face",
       "Claude Code", "OpenCode", "OpenAI Codex", "GitHub Copilot",
-      "ChatGPT", "Qwen AI", "DeepSeek", "Gemini AI"
+      "RAG", "AI Agents", "LLM",  "Vector DB", "ChatGPT", "Qwen AI", "DeepSeek", "Gemini AI"
     ]
   }
 ]
