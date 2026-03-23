@@ -20,7 +20,7 @@
   &nbsp;
   <a href="https://github.com/actionanand?tab=followers"><img src="https://img.shields.io/github/followers/actionanand?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github" alt="GitHub followers"/></a>
   &nbsp;
-  <a href="https://twitter.com/actionanand" target="_blank"><img src="https://img.shields.io/twitter/follow/actionanand?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1A8CD8" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/anand-ns" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 <!-- HEADER_END -->
 
@@ -49,13 +49,15 @@ focus_areas:
   mobile: [Ionic, React Native]
 
 current_goals:
-  - Mastering advanced Angular patterns
-  - Exploring GraphQL & Deno
-  - Contributing to open source
-  - Writing technical blog posts
+  - Architecting scalable micro-frontend ecosystems
+  - Building production-grade AI-augmented applications
+  - Contributing to open source projects
+  - Mentoring developers & sharing knowledge
 
 fun_fact: >
   I turn coffee into code and bugs into features!
+
+open_to: [Freelance, Full-time, Open Source Collaboration]
 ```
 
 <br clear="both"/>
@@ -451,7 +453,7 @@ This is a simple weather forecast application built using AngularJS with modern 
 
 <br/>
 
-## 📝 Latest Blog Posts & Dev Card
+## 🃏 &nbsp;Dev Card
 
 <div align="center">
   <a href="https://app.daily.dev/actionanand"><img src="https://raw.githubusercontent.com/actionanand/actionanand/main/devcard.svg" width="356" alt="Anand Raja's Dev Card"/></a>

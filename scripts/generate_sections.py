@@ -226,7 +226,7 @@ def build_header(profile):
   &nbsp;
   <a href="https://github.com/actionanand?tab=followers"><img src="https://img.shields.io/github/followers/actionanand?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github" alt="GitHub followers"/></a>
   &nbsp;
-  <a href="https://twitter.com/actionanand" target="_blank"><img src="https://img.shields.io/twitter/follow/actionanand?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1A8CD8" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/anand-ns" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 <!-- HEADER_END -->"""
 
@@ -238,6 +238,34 @@ def build_header(profile):
 def build_about_me(profile):
     fa     = profile["focus_areas"]
     goals  = "\n".join(f"  - {g}" for g in profile["current_goals"])
+    open_to = profile.get("open_to", [])
+    open_to_line = f"\nopen_to: [{', '.join(open_to)}]" if open_to else ""
+    # ── open_to examples — copy the list you want into data/profile.json ────
+    # Actively looking:
+    #   "open_to": ["Open to new opportunities", "Full-time roles", "Freelance projects"]
+    #   "open_to": ["Actively job hunting", "Full-time", "Remote-friendly roles"]
+    #   "open_to": ["Looking for new role", "Full-time", "Open Source Collaboration"]
+    #
+    # Passively open:
+    #   "open_to": ["Open to interesting opportunities", "Freelance", "Consulting"]
+    #   "open_to": ["Not actively looking, but open to great opportunities"]
+    #   "open_to": ["Selectively open", "Senior / Lead roles only", "Remote preferred"]
+    #
+    # Not looking:
+    #   "open_to": ["Currently employed, not looking"]
+    #   "open_to": ["Happy where I am, but open to exceptional offers"]
+    #   "open_to": ["Not available for hire"]
+    #
+    # Freelance / Contract:
+    #   "open_to": ["Available for Freelance", "Contract work", "Open Source"]
+    #   "open_to": ["Part-time Consulting", "Freelance Angular projects"]
+    #
+    # Current (active):
+    #   "open_to": ["Freelance", "Full-time", "Open Source Collaboration"]
+    #
+    # To hide the field entirely, set:  "open_to": []
+    # ────────────────────────────────────────────────────────────────────────
+
     return f"""<!-- ABOUT_ME_START -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;About Me
 
@@ -259,7 +287,7 @@ current_goals:
 {goals}
 
 fun_fact: >
-  {profile["fun_fact"]}
+  {profile["fun_fact"]}{open_to_line}
 ```
 
 <br clear="both"/>

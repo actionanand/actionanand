@@ -7,32 +7,75 @@
   "portfolio_display": "Anand's Resume",
   "focus_areas": {
     "primary": "Angular (Frontend Specialist)",
-    "frontend": ["Angular", "React", "Vue.js", "Vanilla JS"],
-    "backend": ["Node.js", "Express", "NestJS", "GraphQL"],
-    "mobile": ["Ionic", "React Native"]
+    "frontend": [
+      "Angular",
+      "React",
+      "Vue.js",
+      "Vanilla JS"
+    ],
+    "backend": [
+      "Node.js",
+      "Express",
+      "NestJS",
+      "GraphQL"
+    ],
+    "mobile": [
+      "Ionic",
+      "React Native"
+    ]
   },
   "current_goals": [
-    "Mastering advanced Angular patterns",
-    "Exploring GraphQL & Deno",
-    "Contributing to open source",
-    "Writing technical blog posts"
+    "Architecting scalable micro-frontend ecosystems",
+    "Building production-grade AI-augmented applications",
+    "Contributing to open source projects",
+    "Mentoring developers & sharing knowledge"
   ],
   "fun_fact": "I turn coffee into code and bugs into features!",
   "typing_lines": [
-    "Angular 🅰️ is my Superpower",
+    "Angular \ud83c\udd70\ufe0f is my Superpower",
     "Building Scalable Web Applications",
     "JavaScript | TypeScript | Node.js Expert",
-    "Clean Code • Best Practices • Performance"
+    "Clean Code \u2022 Best Practices \u2022 Performance"
   ],
   "stackoverflow": {
     "user_id": "10907720",
     "username": "anand-raja",
     "top_tags": [
-      { "tag": "Angular",     "logo": "angular",    "color": "DD0031", "logoColor": "white" },
-      { "tag": "TypeScript",  "logo": "typescript", "color": "3178C6", "logoColor": "white" },
-      { "tag": "JavaScript",  "logo": "javascript", "color": "F7DF1E", "logoColor": "black" },
-      { "tag": "Node.js",     "logo": "node.js",    "color": "5FA04E", "logoColor": "white" },
-      { "tag": "RxJS",        "logo": "reactivex",  "color": "B7178C", "logoColor": "white" }
+      {
+        "tag": "Angular",
+        "logo": "angular",
+        "color": "DD0031",
+        "logoColor": "white"
+      },
+      {
+        "tag": "TypeScript",
+        "logo": "typescript",
+        "color": "3178C6",
+        "logoColor": "white"
+      },
+      {
+        "tag": "JavaScript",
+        "logo": "javascript",
+        "color": "F7DF1E",
+        "logoColor": "black"
+      },
+      {
+        "tag": "Node.js",
+        "logo": "node.js",
+        "color": "5FA04E",
+        "logoColor": "white"
+      },
+      {
+        "tag": "RxJS",
+        "logo": "reactivex",
+        "color": "B7178C",
+        "logoColor": "white"
+      }
     ]
-  }
+  },
+  "open_to": [
+    "Freelance",
+    "Full-time",
+    "Open Source Collaboration"
+  ]
 }
