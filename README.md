@@ -56,7 +56,6 @@ current_goals:
 
 fun_fact: >
   I turn coffee into code and bugs into features!
-
 open_to: [Freelance, Full-time, Open Source Collaboration]
 ```
 
