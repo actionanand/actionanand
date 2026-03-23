@@ -147,6 +147,7 @@
       { "name": "OpenCode",       "url": "https://opencode.ai" },
       { "name": "OpenAI Codex",   "url": "https://openai.com/blog/openai-codex" },
       { "name": "GitHub Copilot", "url": "https://github.com/features/copilot" },
+      { "name": "PI Coding Agent", "url": "https://shittycodingagent.ai" },
       { "name": "RAG" },
       { "name": "AI Agents" },
       { "name": "LLM" },
@@ -154,7 +155,10 @@
       { "name": "ChatGPT",        "url": "https://chat.openai.com" },
       { "name": "Qwen AI",        "url": "https://qwen.ai" },
       { "name": "DeepSeek",       "url": "https://deepseek.com" },
-      { "name": "Gemini AI",      "url": "https://gemini.google.com" }
+      { "name": "Gemini AI",      "url": "https://gemini.google.com" },
+      { "name": "AI Assisted Development" },
+      { "name": "Prompt Engineering" },
+      { "name": "AI Pair Programming" }
     ]
   }
 ]
