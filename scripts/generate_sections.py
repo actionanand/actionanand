@@ -198,10 +198,9 @@ def build_header(profile):
     role      = profile["role"]
     p_url     = profile["portfolio_url"]
     p_disp    = profile["portfolio_display"]
-    # readme-typing-svg format: single lines= param, raw semicolons as separator,
-    # + for spaces, special chars manually encoded. Emoji kept as-is (service supports them).
-    # Do NOT use urllib.quote() — it breaks the URL with %20 and %3B.
-    def encode_typing_line(line):
+    # readme-typing-svg requires: single lines= param, raw ; as separator, + for spaces
+    # Do NOT use quote() — %20 spaces and %3B semicolons both break the service
+    def _encode_line(line):
         return (line
                 .replace(" ", "+")
                 .replace("|", "%7C")
@@ -209,7 +208,7 @@ def build_header(profile):
                 .replace("&", "%26")
                 .replace("?", "%3F")
                 .replace("#", "%23"))
-    lines_param = "lines=" + ";".join(encode_typing_line(l) for l in profile["typing_lines"])
+    lines_param = "lines=" + ";".join(_encode_line(l) for l in profile["typing_lines"])
     name_enc  = quote(name, safe="")
     desc_enc  = quote(role, safe="")
 
