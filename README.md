@@ -105,7 +105,17 @@ fun_fact: >
   <img src="https://img.shields.io/badge/Angular+Material-757575?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Material"/>
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3.js"/>
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly"/>
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="Wasm"/>
   <img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack"/>
+  <img src="https://img.shields.io/badge/MEAN_Stack-00BCD4?style=for-the-badge&logo=angular&logoColor=white" alt="MEAN Stack"/>
+  <img src="https://img.shields.io/badge/MERN_Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="MERN Stack"/>
+  <img src="https://img.shields.io/badge/JAMstack-F0047F?style=for-the-badge&logo=jamstack&logoColor=white" alt="JAM Stack"/>
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA"/>
+  <img src="https://img.shields.io/badge/Web_Components-29ABE2?style=for-the-badge&logo=webcomponents&logoColor=white" alt="Web Components"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
+  <img src="https://img.shields.io/badge/Handlebars.js-000000?style=for-the-badge&logo=handlebarsdotjs&logoColor=white" alt="Handlebars"/>
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS"/>
+  <img src="https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white" alt="Pug"/>
 </p>
 </details>
 
@@ -161,13 +171,18 @@ fun_fact: >
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Spinnaker-139BB4?style=for-the-badge&logo=spinnaker&logoColor=white" alt="Spinnaker"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="AirFlow"/>
+  <img src="https://img.shields.io/badge/Rundeck-F73F39?style=for-the-badge&logo=rundeck&logoColor=white" alt="Rundeck"/>
+  <img src="https://img.shields.io/badge/Backstage-9BF0E1?style=for-the-badge&logo=backstage&logoColor=black" alt="Backstage IO"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white" alt="Nx"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white" alt="WSL"/>
 </p>
 </details>
 
@@ -190,14 +205,21 @@ fun_fact: >
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"/>
   <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" alt="Babel"/>
   <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp"/>
+  <img src="https://img.shields.io/badge/NVM-F4DD4B?style=for-the-badge&logo=node.js&logoColor=black" alt="nvm"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn"/>
   <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm"/>
   <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=invision&logoColor=white" alt="InVision"/>
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint"/>
+  <img src="https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=biome&logoColor=white" alt="Biome"/>
   <img src="https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white" alt="Mermaid"/>
+  <img src="https://img.shields.io/badge/Miniconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Miniconda"/>
+  <img src="https://img.shields.io/badge/KaTeX-008080?style=for-the-badge&logo=katex&logoColor=white" alt="Katex"/>
+  <img src="https://img.shields.io/badge/PrismJS-2D2D2D?style=for-the-badge&logo=prisma&logoColor=white" alt="Prism js"/>
+  <img src="https://img.shields.io/badge/Shiki-4FC08D?style=for-the-badge&logo=shiki&logoColor=white" alt="Shiki"/>
 </p>
 </details>
 
@@ -213,8 +235,12 @@ fun_fact: >
   <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=terminal&logoColor=white" alt="OpenCode"/>
   <img src="https://img.shields.io/badge/OpenAI_Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex"/>
   <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/RAG-00B4D8?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/LLMs-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="LLM"/>
+  <img src="https://img.shields.io/badge/Vector_DB-4A154B?style=for-the-badge&logo=pinecone&logoColor=white" alt="Vector DB"/>
   <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Qwen_AI-FF6A00?style=for-the-badge&logo=qwen&logoColor=white" alt="Qwen AI"/>
+  <img src="https://img.shields.io/badge/Qwen_AI-FF6A00?style=for-the-badge&logo=alibabadotcom&logoColor=white" alt="Qwen AI"/>
   <img src="https://img.shields.io/badge/DeepSeek-1E90FF?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek"/>
   <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI"/>
 </p>
@@ -229,6 +255,7 @@ fun_fact: >
 
 <br/>
 
+<!-- STACKOVERFLOW_START -->
 ## <img src="https://img.shields.io/badge/-stackoverflow-F58025?style=flat&logo=stackoverflow&logoColor=white" height="25" alt="Stack Overflow"/> &nbsp;Stack Overflow
 
 <div align="center">
@@ -247,18 +274,15 @@ fun_fact: >
 
   <br/>
 
-  <!-- Top Tags / Expertise (static badges reflecting Angular focus) -->
+  <!-- Top Tags — editable via data/profile.json -->
   <img src="https://img.shields.io/badge/Top%20Tag-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Top Tag: Angular"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/Top%20Tag-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="Top Tag: TypeScript"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/Top%20Tag-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Top Tag: JavaScript"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/Top%20Tag-Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white" alt="Top Tag: Node.js"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/Top%20Tag-RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="Top Tag: RxJS"/>
 
 </div>
+<!-- STACKOVERFLOW_END -->
 
 <br/>
 
@@ -437,7 +461,6 @@ This is a simple weather forecast application built using AngularJS with modern 
 <br/>
 
 <!-- CONNECT_START -->
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> &nbsp;Connect with Me
 
 <div align="center">
@@ -452,7 +475,6 @@ This is a simple weather forecast application built using AngularJS with modern 
   <a href="https://instagram.com/actionanand" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
   <a href="https://fb.com/actionanand" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </div>
-
 <!-- CONNECT_END -->
 
 <br/>

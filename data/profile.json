@@ -23,5 +23,16 @@
     "Building Scalable Web Applications",
     "JavaScript | TypeScript | Node.js Expert",
     "Clean Code • Best Practices • Performance"
-  ]
+  ],
+  "stackoverflow": {
+    "user_id": "10907720",
+    "username": "anand-raja",
+    "top_tags": [
+      { "tag": "Angular",     "logo": "angular",    "color": "DD0031", "logoColor": "white" },
+      { "tag": "TypeScript",  "logo": "typescript", "color": "3178C6", "logoColor": "white" },
+      { "tag": "JavaScript",  "logo": "javascript", "color": "F7DF1E", "logoColor": "black" },
+      { "tag": "Node.js",     "logo": "node.js",    "color": "5FA04E", "logoColor": "white" },
+      { "tag": "RxJS",        "logo": "reactivex",  "color": "B7178C", "logoColor": "white" }
+    ]
+  }
 }
