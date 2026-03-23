@@ -240,6 +240,31 @@ def build_about_me(profile):
     goals  = "\n".join(f"  - {g}" for g in profile["current_goals"])
     open_to = profile.get("open_to", [])
     open_to_line = f"\nopen_to: [{', '.join(open_to)}]" if open_to else ""
+    # ── open_to examples — copy the list you want into data/profile.json ────
+    # Actively looking:
+    #   "open_to": ["Open to new opportunities", "Full-time roles", "Freelance projects"]
+    #   "open_to": ["Actively job hunting", "Full-time", "Remote-friendly roles"]
+    #   "open_to": ["Looking for new role", "Full-time", "Open Source Collaboration"]
+    #
+    # Passively open:
+    #   "open_to": ["Open to interesting opportunities", "Freelance", "Consulting"]
+    #   "open_to": ["Not actively looking, but open to great opportunities"]
+    #   "open_to": ["Selectively open", "Senior / Lead roles only", "Remote preferred"]
+    #
+    # Not looking:
+    #   "open_to": ["Currently employed, not looking"]
+    #   "open_to": ["Happy where I am, but open to exceptional offers"]
+    #   "open_to": ["Not available for hire"]
+    #
+    # Freelance / Contract:
+    #   "open_to": ["Available for Freelance", "Contract work", "Open Source"]
+    #   "open_to": ["Part-time Consulting", "Freelance Angular projects"]
+    #
+    # Current (active):
+    #   "open_to": ["Freelance", "Full-time", "Open Source Collaboration"]
+    #
+    # To hide the field entirely, set:  "open_to": []
+    # ────────────────────────────────────────────────────────────────────────
 
     return f"""<!-- ABOUT_ME_START -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;About Me
