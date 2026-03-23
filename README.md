@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&repeat=true&random=false&width=650&height=50&lines=Angular+🅰️+is+my+Superpower%3BBuilding+Scalable+Web+Applications%3BJavaScript+%7C+TypeScript+%7C+Node.js+Expert%3BClean+Code+%E2%80%A2+Best+Practices+%E2%80%A2+Performance" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&repeat=true&random=false&width=650&height=50&lines=Angular+%F0%9F%85%B0%EF%B8%8F+is+my+Superpower;Building+Scalable+Web+Applications;JavaScript+%7C+TypeScript+%7C+Node.js+Expert;Clean+Code+%E2%80%A2+Best+Practices+%E2%80%A2+Performance" alt="Typing SVG" /></a>
 </div>
 
 <br/>
