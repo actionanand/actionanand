@@ -42,5 +42,13 @@ jobs:
           git add README.md
           git diff --staged --quiet && echo "No changes to commit" && exit 0
           git commit -m "chore: update README sections [skip ci]"
-          git pull --rebase origin main
-          git push
+
+          # Retry push up to 5 times to handle concurrent workflow race conditions
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && echo "✅ Push succeeded on attempt $i" && exit 0
+            echo "⚠️  Attempt $i failed, retrying in 5s..."
+            sleep 5
+          done
+
+          echo "❌ Push failed after 5 attempts"
+          exit 1
