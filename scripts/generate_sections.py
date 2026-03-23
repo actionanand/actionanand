@@ -198,9 +198,11 @@ def build_header(profile):
     role      = profile["role"]
     p_url     = profile["portfolio_url"]
     p_disp    = profile["portfolio_display"]
-    lines_param = "&".join(
-        f'lines={quote(l, safe="")}' for l in profile["typing_lines"]
-    )
+    # Use semicolon-separated single lines= param with + for spaces
+    # Multiple &lines= params break emoji rendering in readme-typing-svg
+    def encode_typing_line(line):
+        return line.replace(" ", "+").replace("|", "%7C").replace("•", "%E2%80%A2")
+    lines_param = "lines=" + "%3B".join(encode_typing_line(l) for l in profile["typing_lines"])
     name_enc  = quote(name, safe="")
     desc_enc  = quote(role, safe="")
 
