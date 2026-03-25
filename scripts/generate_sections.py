@@ -160,7 +160,14 @@ TECH_BADGES = {
     "chatgpt":           ("ChatGPT",               "10A37F", "openai",               "white"),
     "qwen ai":           ("Qwen_AI",               "FF6A00", "alibabadotcom",        "white"),
     "deepseek":          ("DeepSeek",              "1E90FF", "deepseek",             "white"),
-    "gemini ai":         ("Gemini_AI",             "4285F4", "google",               "white"),
+    "gemini ai":              ("Gemini_AI",              "4285F4", "google",          "white"),
+    # AI Tools & Concepts
+    "pi coding agent":        ("PI_Coding_Agent",        "FF4F00", "probot",          "white"),
+    "gemini cli":             ("Gemini_CLI",             "4285F4", "google",          "white"),
+    "antigravity":            ("Antigravity",            "4285F4", "google",          "white"),
+    "ai assisted development":("AI_Assisted_Dev",        "6A5ACD", "probot",          "white"),
+    "prompt engineering":     ("Prompt_Engineering",     "FF6F00", "openai",          "white"),
+    "ai pair programming":    ("AI_Pair_Programming",    "7C3AED", "github",          "white"),
 }
 
 def make_badge(tech, style="for-the-badge"):

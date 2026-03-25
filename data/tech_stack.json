@@ -148,6 +148,8 @@
       { "name": "OpenAI Codex",   "url": "https://openai.com/blog/openai-codex" },
       { "name": "GitHub Copilot", "url": "https://github.com/features/copilot" },
       { "name": "PI Coding Agent", "url": "https://shittycodingagent.ai" },
+      { "name": "Gemini CLI",     "url": "https://geminicli.com/" },
+      { "name": "Antigravity",    "url": "https://antigravity.google/" },
       { "name": "RAG" },
       { "name": "AI Agents" },
       { "name": "LLM" },
