@@ -236,7 +236,9 @@ open_to: [Freelance, Full-time, Open Source Collaboration]
   <a href="https://opencode.ai" target="_blank"><img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=terminal&logoColor=white" alt="OpenCode"/></a>
   <a href="https://openai.com/blog/openai-codex" target="_blank"><img src="https://img.shields.io/badge/OpenAI_Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex"/></a>
   <a href="https://github.com/features/copilot" target="_blank"><img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot"/></a>
-  <a href="https://shittycodingagent.ai" target="_blank"><img src="https://img.shields.io/badge/PI_Coding_Agent-555555?style=for-the-badge&logoColor=white" alt="PI Coding Agent"/></a>
+  <a href="https://shittycodingagent.ai" target="_blank"><img src="https://img.shields.io/badge/PI_Coding_Agent-FF4F00?style=for-the-badge&logo=probot&logoColor=white" alt="PI Coding Agent"/></a>
+  <a href="https://geminicli.com/" target="_blank"><img src="https://img.shields.io/badge/Gemini_CLI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini CLI"/></a>
+  <a href="https://antigravity.google/" target="_blank"><img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity"/></a>
   <img src="https://img.shields.io/badge/RAG-00B4D8?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
   <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents"/>
   <img src="https://img.shields.io/badge/LLMs-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="LLM"/>
@@ -245,9 +247,9 @@ open_to: [Freelance, Full-time, Open Source Collaboration]
   <a href="https://qwen.ai" target="_blank"><img src="https://img.shields.io/badge/Qwen_AI-FF6A00?style=for-the-badge&logo=alibabadotcom&logoColor=white" alt="Qwen AI"/></a>
   <a href="https://deepseek.com" target="_blank"><img src="https://img.shields.io/badge/DeepSeek-1E90FF?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek"/></a>
   <a href="https://gemini.google.com" target="_blank"><img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI"/></a>
-  <img src="https://img.shields.io/badge/AI_Assisted_Development-555555?style=for-the-badge&logoColor=white" alt="AI Assisted Development"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-555555?style=for-the-badge&logoColor=white" alt="Prompt Engineering"/>
-  <img src="https://img.shields.io/badge/AI_Pair_Programming-555555?style=for-the-badge&logoColor=white" alt="AI Pair Programming"/>
+  <img src="https://img.shields.io/badge/AI_Assisted_Dev-6A5ACD?style=for-the-badge&logo=probot&logoColor=white" alt="AI Assisted Development"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/AI_Pair_Programming-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="AI Pair Programming"/>
 </p>
 </details>
 
